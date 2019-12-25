@@ -1,0 +1,1 @@
+{"version":3,"file":"errorv2page.js","sourceRoot":"","sources":["../../src/pages/errorv2page.ts"],"names":[],"mappings":";;;;;AAAA,0DAAkC;AAElC,MAAM,UAAU,GAAG,4BAA4B,CAAC;AAEhD,MAAM,WAAY,SAAQ,kBAAQ;IAE9B;QACI,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,GAAG,GAAG,KAAK,CAAC;QACjB,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;IACjC,CAAC;CACJ;AAED,kBAAe,WAAW,CAAC"}
