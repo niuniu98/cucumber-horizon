@@ -1,0 +1,20 @@
+{
+  "title":"Redesign BAPI post a job ad",
+  "description":"Test Post AD with phone number & email in description, phone number is 021 930 2345, email is bolt.test@gmail.com , here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description.  here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description. here is long description.",
+  "categoryId":"9005",
+  "location": {
+    "latitude": "-32.7901",
+    "longitude": "26.832914"
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"JobType",
+      "value":"casual"
+    }
+  ],
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/KFMAAOSwu1xZyza4/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/prkAAOSwH4FZyza6/$_18.JPG?set_id=8800005007"
+    ]
+}

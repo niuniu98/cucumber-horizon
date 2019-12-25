@@ -1,0 +1,50 @@
+{
+  "title": "BAPI post car ad for car free",
+  "description": "BAPI post car ad for car free for BDD Redesign case",
+  "categoryId":69,
+"location": {    "latitude": "19.343744", "longitude": "-99.15619"},
+"price":{
+      "priceType":"FREE",
+      "currency":"USD",
+        "amount":"488"
+      
+  },
+  "imageUrls":[    "https://i.ebayimg.com/00/s/MzM0WDQ0NQ==/z/WhgAAOSw3RhZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/5MIAAOSwz9FZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/UToAAOSwS1VZyzZ~/$_18.JPG?set_id=8800005007"],
+  "categoryAttributes":
+  [ 
+        { 
+            "name":"CarMileageInKms", 
+            "value":"1234" 
+        }, 
+        { 
+            "name":"CarYear", 
+            "value":"2015" 
+        },
+        {
+            "name":"AlmVehicleBrand", 
+            "value":"bmw" 
+        },
+        {
+            "name":"AlmVehicleModel",
+            "value":"f650"
+        },
+        {
+            "name":"ForSaleBy",
+            "value":"ownr"
+        },
+        {
+            "name":"CarEngineDisplacement",
+            "value":"233"
+        },
+        {
+            "name":"AlmCarFuelType",
+            "value":"gas"
+        },
+        {
+            "name":"AlmCarColor",
+            "value":"yellow"
+        }
+    ]
+}

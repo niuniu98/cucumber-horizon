@@ -1,0 +1,17 @@
+{
+  "title":"Redesign BAPI post an non-leaf ad",
+  "description":"BAPI post an non-leaf ad description for BDD Redesign case",
+  "categoryId":"15",
+  "price":{
+    "currency":"MXN",
+    "amount":"456"
+    },
+  "location": {
+    "latitude": "21.8852562",
+    "longitude": "-102.29156769999997"
+  },
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/5MIAAOSwz9FZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/UToAAOSwS1VZyzZ~/$_18.JPG?set_id=8800005007"
+    ]
+}

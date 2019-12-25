@@ -1,0 +1,20 @@
+{
+  "title":"Redesign BAPI post an active ad",
+  "description":"BAPI post an ad description",
+  "categoryId":"9235",
+  "price":{
+    "currency":"ZAR",
+    "amount":"123"
+    },
+  "location": {
+     "latitude": "-32.29684",
+     "longitude": "26.41939"
+  },
+  "syncGeoCodeForTesting":true,
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/UToAAOSwS1VZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/5MIAAOSwz9FZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/UToAAOSwS1VZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/5MIAAOSwz9FZyzZ~/$_18.JPG?set_id=8800005007"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title":"Real Estate ad for approximate locations 10938",
+  "description":"Real Estate ad for approximate locations Real Estate ad for approximate locations Real Estate ad for approximate locations Real Estate ad for approximate locations",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"845673"
+    },
+  "location": {
+    "latitude": "21.504166",
+    "longitude": "-104.89459"
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBathrooms",
+      "value":30
+    },
+    {
+      "name":"DwellingType",
+      "value":"house"
+    },
+    {
+      "name":"NumberBedrooms",
+      "value":5
+    },
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":123
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    }
+  ],
+   
+  "imageUrls":[
+   "https://i.ebayimg.com/00/s/NDgwWDgwMA==/z/58UAAOSwOD9bVmEJ/$_18.JPG?set_id=8800005007",
+   "https://i.ebayimg.com/00/s/NTMzWDgwMA==/z/nlcAAOSwr8hbVmEJ/$_18.JPG?set_id=8800005007"
+    ]
+}

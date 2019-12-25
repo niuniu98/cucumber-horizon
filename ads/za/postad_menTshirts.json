@@ -1,0 +1,20 @@
+{
+    "title": "BAPI post an ad in Men's T-Shirts in category",
+    "description": "BAPI post an ad in Men's T-Shirts category to test sectionTtitle.",
+    "categoryId":9329,
+    "location": {"latitude":"-26.322393","longitude":"28.123972"},
+    "price":{
+      "priceType":"FIXED",
+      "currency":"ZAR",
+      "amount":"45"
+
+    },
+    "imageUrls":["https://i.ebayimg.com/00/s/MjIwWDgwMA==/z/YwQAAOSwhQtazlXk/$_19.JPG"],
+    "categoryAttributes":
+    [
+      {
+        "name":"ForSaleBy",
+        "value":"ownr"
+      }
+    ]
+  }

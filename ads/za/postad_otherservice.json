@@ -1,0 +1,16 @@
+{
+  "title":"Redesign BAPI post an other service ad",
+  "description":"BAPI post an other service ad for multiple location teszt",
+  "categoryId":"9066",
+  "location": {
+     "latitude": "-27.713842",
+     "longitude": "29.997177"
+  },
+  "syncGeoCodeForTesting":true,
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/UToAAOSwS1VZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/5MIAAOSwz9FZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/UToAAOSwS1VZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/5MIAAOSwz9FZyzZ~/$_18.JPG?set_id=8800005007"
+  ]
+}

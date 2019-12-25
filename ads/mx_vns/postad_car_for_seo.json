@@ -1,0 +1,38 @@
+{
+  "title": "BAPI post car ad for srp seo",
+  "description": "BAPI post car ad for srp seo for BDD Redesign case",
+  "categoryId":65,
+"location": {    "latitude": "19.343744", "longitude": "-99.15619"},
+"price":{
+      "priceType":"CONTACT_ME",
+      "currency":"MXN"
+  },
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/MzM0WDQ0NQ==/z/WhgAAOSw3RhZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/5MIAAOSwz9FZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/UToAAOSwS1VZyzZ~/$_18.JPG?set_id=8800005007"
+  ],
+  "categoryAttributes":
+  [ 
+        { 
+            "name":"CarMileageInKms", 
+            "value":"1234" 
+        },
+        {
+            "name":"AlmVehicleBrand",
+            "value":"bmw" 
+        },
+        {
+            "name":"AlmVehicleModel",
+            "value":"323"
+        },
+        {
+            "name":"ForSaleBy",
+            "value":"ownr"
+        },
+        {
+            "name":"AlmCarColor",
+            "value":"blue"
+        }
+    ]
+}

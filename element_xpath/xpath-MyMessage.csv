@@ -1,0 +1,4 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,All,TextField,msg_txfNoMsgTip,the textfield that no messages revieved,xpath,"//div[@class='no-msg-desc']"
+All,All,Label,msg_lblUnReadConv,all unread conversation messages,xpath,"//li[@class='notRead']"
+All,All,Label,msg_lblTotalConv,all conversation messages,xpath,"//div[@class='conversations']//li"

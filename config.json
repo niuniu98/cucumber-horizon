@@ -1,0 +1,18 @@
+
+{
+    "storyList": "gherkinExample.feature",
+    "folder": "**",
+    "browser": "chrome",
+    "device": "desktop",
+    "mobileName": "iphone_6",
+    "maxInstances": 1,
+    "windowSize": "1400,800",
+    "tags": "",
+    "retry": 2,
+    "grid": "",
+    "connect":true,
+    "vm": "nniulvs-3445676.lvs02.dev.ebayc3.com",
+    "site": "mx_vns",
+    "chromeDriver": "/chromedriver",
+    "timeout": 60
+}

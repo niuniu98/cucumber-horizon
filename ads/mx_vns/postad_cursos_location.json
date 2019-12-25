@@ -1,0 +1,12 @@
+{
+  "title": "post cursos with plocation",
+  "description": "BAPI post cursos with plocation for BDD Redesign case",
+  "categoryId":"53",
+  "location": {
+   "latitude": "18.610184",
+    "longitude": "-90.73902"
+  },
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NTMzWDgwMA==/z/NxAAAOSwgHJZyzb9/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/MjIwWDM1Mg==/z/wlsAAOSwZgNZyzcJ/$_18.JPG?set_id=8800005007"]
+}

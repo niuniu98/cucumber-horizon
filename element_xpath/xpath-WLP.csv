@@ -1,0 +1,4 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,All,TextField,WLP_txfFavAdId,all ad id in user's watchlist,xpath,"//li[@class='result']"
+All,All,Label,WLP_lblRemoveAllFav,remove all ads in user's watchlist,xpath,"//span[@class='clearAll']"
+All,All,Label,WLP_lblAdNumber,result of favorite ad number,xpath,"//span[@class='count']/span"

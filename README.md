@@ -1,1 +1,1 @@
-# cucumber-horizon
+# bolt-cucumber-horizon

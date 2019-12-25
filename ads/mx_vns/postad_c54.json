@@ -1,0 +1,14 @@
+{
+  "title":"Redesign BAPI post an ad for gallerycarousel",
+  "description":"BAPI post an ad description for BDD Redesign case",
+  "categoryId":"54",
+  "location": {
+    "latitude": "19.343744",
+    "longitude": "-99.15619"
+  },
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/oMQAAOSwWlNZyzLV/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/wT0AAOSwZgNZyzLX/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/MjIwWDM3Nw==/z/h9AAAOSwXAJZyzLc/$_18.JPG?set_id=8800005007"
+    ]
+}

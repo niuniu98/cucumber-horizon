@@ -1,0 +1,13 @@
+{
+  "title":"Redesign BAPI post a job ad - teaching Docente",
+  "description":"BAPI post an ad description for BDD Redesign case",
+  "categoryId":"1113",
+  "location": {
+    "latitude": "32.35952136717541",
+    "longitude": "-117.05740244999998"
+  },
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/MjIwWDM1Mg==/z/wlsAAOSwZgNZyzcJ/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/MjIwWDI5Mw==/z/WwAAAOSwQttZyzcJ/$_18.JPG?set_id=8800004005"
+    ]
+}

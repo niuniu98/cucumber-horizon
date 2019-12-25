@@ -1,0 +1,24 @@
+<ad:ad xmlns:types="http://www.ebayclassifiedsgroup.com/schema/types/v1" xmlns:cat="http://www.ebayclassifiedsgroup.com/schema/category/v1" xmlns:loc="http://www.ebayclassifiedsgroup.com/schema/location/v1" xmlns:ad="http://www.ebayclassifiedsgroup.com/schema/ad/v1" xmlns:attr="http://www.ebayclassifiedsgroup.com/schema/attribute/v1" xmlns:pic="http://www.ebayclassifiedsgroup.com/schema/picture/v1" xmlns:user="http://www.ebayclassifiedsgroup.com/schema/user/v1" xmlns:rate="http://www.ebayclassifiedsgroup.com/schema/rate/v1" xmlns:reply="http://www.ebayclassifiedsgroup.com/schema/reply/v1" locale="en-ZA">
+	<ad:title>Post CAPI business partner service ad from BDD</ad:title>
+	<ad:description>The description for service partner job ad</ad:description>
+	<loc:locations>
+		<loc:location id="3100303" />
+	</loc:locations>
+	<cat:category id="9136" />
+	<ad:email></ad:email>
+	<ad:account-id>100001500</ad:account-id>
+	<ad:phone>258963147</ad:phone>
+	<ad:ad-address>
+		<types:full-address>V road</types:full-address>
+	</ad:ad-address>
+	<ad:price>
+		<types:price-type>
+			<types:value>FREE</types:value>
+		</types:price-type>
+	</ad:price>
+	<attr:attributes>
+		<attr:attribute type="" localized-label="" name="WebSiteUrl">
+			<attr:value>https://www.gumtree.co.za</attr:value>
+		</attr:attribute>
+	</attr:attributes>
+</ad:ad>

@@ -1,0 +1,46 @@
+<ad:ad xmlns:types="http://www.ebayclassifiedsgroup.com/schema/types/v1" xmlns:cat="http://www.ebayclassifiedsgroup.com/schema/category/v1" xmlns:loc="http://www.ebayclassifiedsgroup.com/schema/location/v1" xmlns:ad="http://www.ebayclassifiedsgroup.com/schema/ad/v1" xmlns:attr="http://www.ebayclassifiedsgroup.com/schema/attribute/v1" xmlns:pic="http://www.ebayclassifiedsgroup.com/schema/picture/v1" xmlns:user="http://www.ebayclassifiedsgroup.com/schema/user/v1" xmlns:rate="http://www.ebayclassifiedsgroup.com/schema/rate/v1" xmlns:reply="http://www.ebayclassifiedsgroup.com/schema/reply/v1" locale="en-ZA">
+	<ad:title>Post CAPI business partner job ad from BDD</ad:title>
+	<ad:description>The description for business partner job ad</ad:description>
+	<loc:locations>
+		<loc:location id="3100303" />
+	</loc:locations>
+	<cat:category id="9005" />
+	<ad:email></ad:email>
+	<ad:account-id>100001500</ad:account-id>
+	<ad:phone>258963147</ad:phone>
+	<ad:ad-address>
+		<types:full-address>V road</types:full-address>
+	</ad:ad-address>
+	<ad:price>
+		<types:price-type>
+			<types:value>FREE</types:value>
+		</types:price-type>
+	</ad:price>
+	<attr:attributes>
+		<attr:attribute type="" localized-label="" name="AdvertisedBy">
+			<attr:value>private</attr:value>
+		</attr:attribute>
+		<attr:attribute type="" localized-label="" name="EmploymentEquity">
+			<attr:value>noneeaa</attr:value>
+		</attr:attribute>
+		<attr:attribute type="" localized-label="" name="JobType">
+			<attr:value>fulltime</attr:value>
+		</attr:attribute>
+		<attr:attribute type="" localized-label="" name="WebSiteUrl">
+			<attr:value>https://www.vivanuncios.com.mx</attr:value>
+		</attr:attribute>
+	</attr:attributes>
+	<pic:pictures>
+		<pic:picture>
+			<pic:link rel="normal" href="https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/nnIAAOSwpC1Zyza6/$_18.JPG?set_id=8800005007"/>
+			<pic:link rel="thumbnail" href="https://i.ebayimg.com/00/s/NzUwWDU2Mg==/z/p3AAAOSwbpRZyzbb/$_18.JPG?set_id=8800005007"/>
+			<pic:link rel="large" href="https://i.ebayimg.com/00/s/NzUwWDU2Mg==/z/p3AAAOSwbpRZyzbb/$_18.JPG?set_id=8800005007"/>
+			<pic:link rel="extraLarge" href="https://i.ebayimg.com/00/s/NzUwWDU2Mg==/z/p3AAAOSwbpRZyzbb/$_18.JPG?set_id=8800005007"/>
+			<pic:link rel="mini" href="https://i.ebayimg.com/00/s/NzUwWDU2Mg==/z/p3AAAOSwbpRZyzbb/$_18.JPG?set_id=8800005007"/>
+			<pic:link rel="thumb" href="https://i.ebayimg.com/00/s/NzUwWDU2Mg==/z/p3AAAOSwbpRZyzbb/$_18.JPG?set_id=8800005007"/>
+			<pic:link rel="list" href="https://i.ebayimg.com/00/s/ODAwWDUzNA==/z/1OcAAOSwb6dZyzcx/$_18.JPG?set_id=8800005007"/>
+			<pic:link rel="big2" href="https://i.ebayimg.com/00/s/ODAwWDUzNA==/z/1OcAAOSwb6dZyzcx/$_18.JPG?set_id=8800005007"/>
+			<pic:link rel="teaser" href="https://i.ebayimg.com/00/s/ODAwWDUzNA==/z/1OcAAOSwb6dZyzcx/$_18.JPG?set_id=8800005007"/>
+		</pic:picture>
+	</pic:pictures>
+</ad:ad>

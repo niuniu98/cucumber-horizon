@@ -1,0 +1,16 @@
+{
+  "title":"asdfghjkl similar ad image count testing and contains one image",
+  "description":"asdfghjkl similar ad image count testing and contains one image",
+  "categoryId":"1071",
+  "price":{
+    "currency":"MXN",
+    "amount":"456"
+  },
+  "location": {
+    "latitude": "20.9673702",
+    "longitude": "-89.5925857"
+  },
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/prkAAOSwH4FZyza6/$_18.JPG?set_id=8800005007"
+  ]
+}

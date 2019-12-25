@@ -1,0 +1,2 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+za,all,LinkList,footer_TrendingList,the list of trending keywords,xpath,"//div[text() = 'Trending : ']//parent::div[contains(@class,'quick-link-col')]"

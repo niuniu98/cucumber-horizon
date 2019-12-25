@@ -1,0 +1,44 @@
+{
+  "title": "Sofi XXX at Los Gatos Creek  Charming Apartments in Silicon Valley 2",
+  "description": "Sofi at Los Gatos Creek has the Silicon Valley apartment you’ve been searching for. Our studio, one, and two bedroom apartments for rent in San Jose, California, are your destination for quality and comfort. With full appliance packages, covered parking, and bright, open floor plans, you’ll be glad you chose Sofi at Los Gatos Creek for your new home 2",
+  "categoryId": "1097",
+  "price": {
+    "currency": "MXN",
+    "amount": "999"
+  },
+  "location": {
+    "latitude": "31.8667427",
+    "longitude": "-116.59637129999999"
+  },
+  "categoryAttributes": [
+    {
+      "name": "DwellingType",
+      "value": "house"
+    },
+    {
+      "name": "NumberBedrooms",
+      "value": "4"
+    },
+    {
+      "name": "NumberBathrooms",
+      "value": "44"
+    },
+    {
+      "name": "DwellingForSaleBy",
+      "value": "agncy"
+    },
+    {
+      "name": "AreaInMeters",
+      "value": "1000"
+    },
+    {
+      "name": "Parking",
+      "value": "none"
+    }
+  ],
+  "imageUrls": [
+    "https://i.ebayimg.com/00/s/NjAwWDc1Mg==/z/up4AAOSwv3ZZyzIB/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/scMAAOSwBcdZyzIC/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/Mzg2WDY0MA==/z/J8IAAOSwwylZyzIA/$_18.JPG?set_id=8800005007"
+  ]
+}

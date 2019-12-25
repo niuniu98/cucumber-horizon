@@ -1,0 +1,47 @@
+{
+  "title":"asffff house for similar ad 4 images",
+  "description":"asffff house for similar ad 4 images",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"984"
+    },
+  "location": {
+    "latitude": "31.8667427",
+    "longitude": "-116.5963713"
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBathrooms",
+      "value":30
+    },
+    {
+      "name":"DwellingType",
+      "value":"house"
+    },
+    {
+      "name":"NumberBedrooms",
+      "value":5
+    },
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":123
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    }
+  ],
+   
+  "imageUrls":[
+   "https://i.ebayimg.com/00/s/MTk3WDEzOA==/z/RXAAAOSwc75a2X15/$_18.JPG?set_id=8800004005",
+    "https://i.ebayimg.com/00/s/MTczWDE1MQ==/z/Lp0AAOSwkVxa2X15/$_18.JPG?set_id=8800004005",
+    "https://i.ebayimg.com/00/s/MTcxWDE1NA==/z/ERgAAOSwEA9a2X16/$_18.JPG?set_id=8800004005",
+    "https://i.ebayimg.com/00/s/MTMwWDE3Mw==/z/9yMAAOSw99Ra2X16/$_18.JPG?set_id=8800004005"
+    ]
+}

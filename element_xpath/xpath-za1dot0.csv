@@ -1,0 +1,9 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+za,All,TextField,txfTitle,Title textfield,xpath,"//input[@name='Title']"
+za,All,TextField,txfDescription,Description textfield,xpath,"//label[contains(text(),'Description')]"
+za,landscape,TextField,txfPrice,Price textfield,xpath,"//div[@class='price-field numberonly']//input[@inputmode='numeric']"
+za,portrait,TextField,txfPrice,Price textfield for mobile,xpath,"//div[@class='price-field numberonly']/input"
+za,All,TextField,txfUsername,user name input,xpath,"//input[@id='username']"
+za,All,Link,lnkZAEditCate,Category Editor,xpath,"//h5[@id='catChange']//span[@class='icon-pencil']"
+za,All,Link,lnkZAEditLoc,Location Editor,xpath,"//h5[@id='locChange']//span[@class='icon-pencil']"
+za,All,Button,btnPostAd,Post Ad button,xpath,"//button[@id='postSubmit']"

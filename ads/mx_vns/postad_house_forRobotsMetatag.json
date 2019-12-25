@@ -1,0 +1,23 @@
+{
+  "title": "category 1099 from QA for testing",
+  "description": "category 1099 from QA for testing for BDD Redesign case",
+  "categoryId":1099,
+  "price":{
+    "priceType":"FIXED",
+    "currency":"USD",
+    "amount":"888"
+    },
+  "location": {    "latitude": "19.49363346225315", "longitude": "-99.22504400000003"},
+
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBedrooms",
+      "value":1
+    }
+  ],
+   
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/MTMwWDE3Mw==/z/9yMAAOSw99Ra2X16/$_18.JPG?set_id=8800004005"
+    ]
+}

@@ -1,0 +1,295 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+mx_vns,Landscape,Link,myAds_lnkBack,back link of the myads page,xpath,//section[@class='my-ads-page']//div[@class='header-back']
+mx_vns,portrait,Link,myAds_lnkBack,back link of the myads page,xpath,//section[@class='my-ads-page']//div[@class='header-back']
+za,All,Link,myAds_lnkBack,back link of the myads page,xpath,//span[@class='icon-arrow-icon-left']
+mx_vns,landscape,Button,myAds_btnPostHeader,post button in header,xpath,//div[@class='post-ad-button btn-wrapper']/a
+mx_vns,portrait,Button,myAds_btnPostHeader,post button in header,xpath,//a[@class='mobile-only post-link']
+za,landscape,Button,myAds_btnPostHeader,post button in header,xpath,//div[@class='desktop-only desktop-post-button']
+za,portrait,Button,myAds_btnPostHeader,post button in header,xpath,//a[@class='mobile-only mobile-post-button']
+All,All,TextField,myAds_txfPageTitle,the myads page title,xpath,//section[@class='my-ads-page']//div[@class='title-text']
+All,All,Link,myAds_lnkFirstDeleteMyAds,the link of first delete ads,xpath,//div[@class='wrap']/div[3]//div[@class='icon-delete-icon-16x16']
+All,All,Label,myAds_lblFirstDelAdReason,delete ad reason,xpath,//div[@class='delete-ad-radio-group']/label[@class='delete-ad-control'][1]//span[@class='delete-ad-control-dscr']
+All,All,Label,myAds_lblThirdDelAdReason,delete ad reason,xpath,//div[@class='delete-ad-radio-group']/label[@class='delete-ad-control'][3]//span[@class='delete-ad-control-dscr']
+mx_vns,All,Button,myAds_btnConfirmDel,delete ad confirm,xpath,"//div[contains(@class,'delete-ad')]//span[@class='sudolink']"
+za,All,Button,myAds_btnConfirmDel,delete ad confirm,xpath,"//div[contains(@class,'delete-ad')]//div[@class='footer-V2']//span[@class='sudolink']"
+All,All,Button,myAds_btnEditMyAd,the edit button,xpath,//a[@class='each-ad-edit']
+All,All,Button,myAds_btnRightEditMyAd,the new edit button on the page right,xpath,//div[@class='each-ad-buttom right-edit']/a[@class='each-ad-edit']
+All,Landscape,Link,myAds_lnkActiveAdNumber,the active ad number,xpath,//div[@class='desktop-tab my-active-ads']//span
+All,portrait,Link,myAds_lnkActiveAdNumber,the active ad number,xpath,//div[@class='mobile-tab my-active-ads']//span
+All,Landscape,Link,myAds_lnkActiveAd,the active ad number,xpath,//div[@class='desktop-tab my-active-ads']
+All,portrait,Link,myAds_lnkActiveAd,the active ad number,xpath,//div[@class='mobile-tab my-active-ads']
+All,All,Link,myAds_lnkAdWithImg,the active ad with image number,xpath,//div[@class='commercial  clearfix']//img
+za,All,Link,myAds_lnkNextPagination,the pagination on my ads,xpath,//a[@class='next follows']
+All,All,Link,myAds_lnkViewMoreAds,view more ads on my ads,xpath,//div[@class='my-ads-show-more-content']
+All,All,TextField,myAds_txfFeatureRemain,feature remaining days,xpath,//span[@class='feature-remain-days disabled']
+mx_vns,All,Button,myAds_btnAllDeleteButton,all the delete button on my ads page,xpath,//div[@class='each-ad-delete']
+za,All,Button,myAds_btnAllDeleteButton,all the delete button on my ads page,xpath,//div[@class='each-ad']//div[@class='delete']
+All,All,Label,myAds_pnlHeader,the header part in myAds page,xpath,//div[@class='headerV2']
+All,All,Label,myAds_pnlFooter,the footer part in myAds page,xpath,//div[@class='footer-wrapper']
+All,All,Label,myAds_pnlSearchBar,the search bar,xpath,//div[@class='search-bar']
+All,All,Button,myAds_btnSearch,the search button on my ads page,xpath,//button[@data-gtm='pc|NavHeaderClick|eventLabel|SearchClick']
+All,portrait,Label,myAds_pnlPostAdOnFooter,the post ad button,xpath,//div[@class='welcome-footer']//div[@class='post-ad-button btn-wrapper']
+mx_vns,portrait,Button,myAds_btnOpenAdPerformance,button to open screentakeover to see ad performance,xpath,//div[@class='each-ad-performance-mobile']
+za,portrait,Button,myAds_btnOpenAdPerformance,button to open screentakeover to see ad performance,xpath,//span[@class='icon-ad-performance']
+All,portrait,Button,myAds_btnCloseAdPerformance,button to close screentakeover of ad performance,xpath,//div[@class='ad-performance-overlay-modal']//span[@class='close-text']
+All,landscape,TextField,myAds_txfFirstPhoneCallCount,the text that phone call count,xpath,//div[@class='performance-phone-click']/span
+All,portrait,TextField,myAds_txfFirstPhoneCallCount,the text that phone call count,xpath,//div[@class='performance-content']/div[4]//div[@class='performance-count']
+All,landscape,TextField,myAds_txfFirstReplyCount,the text that reply count,xpath,//div[@class='performance-reply']/span
+All,portrait,TextField,myAds_txfFirstReplyCount,the text that reply count,xpath,//div[@class='performance-content']/div[2]//div[@class='performance-count']
+All,landscape,TextField,myAds_txfFirstViewCount,the text that view ad count,xpath,//div[@class='performance-view']/span
+All,portrait,TextField,myAds_txfFirstViewCount,the text that view ad count,xpath,//div[@class='performance-content']/div[1]//div[@class='performance-count']
+All,landscape,TextField,myAds_txfFirstFavCount,the text that favorite ad count,xpath,//div[@class='performance-watch']/span
+All,portrait,TextField,myAds_txfFirstFavCount,the text that favorite ad count,xpath,//div[@class='performance-content']/div[3]//div[@class='performance-count']
+mx_vns,landscape,Label,myAds_imgFavoriteIcon,the icon before favorite count,xpath,//div[@class='performance-watch']/div
+mx_vns,portrait,Label,myAds_imgFavoriteIcon,the icon before favorite count,xpath,//div[@class='performance-view-header']/span
+All,landscape,Label,myAds_imgReplyIcon,the icon before reply count,xpath,//div[@class='performance-reply']/div
+All,portrait,Label,myAds_imgReplyIcon,the icon before reply count,xpath,//div[@class='performance-reply-header']/span
+All,landscape,Label,myAds_imgViewIcon,the icon before view count,xpath,//div[@class='performance-view']/div
+All,portrait,Label,myAds_imgViewIcon,the icon before view count,xpath,//div[@class='performance-watch-header']/span
+All,landscape,Label,myAds_imgPhoneIcon,the icon before click phone/email count,xpath,//div[@class='performance-phone-click']/div
+All,portrait,Label,myAds_imgPhoneIcon,the icon before click phone/email count,xpath,//div[@class='performance-phone-click-header']/span
+All,All,Label,myAds_ddPromoteHPGallery3.0,the dropdown list of homepage gallery feature,xpath,"//div[@class='feature-options']/select/option[contains(@value,'hpGallery')]/../../select"
+All,All,Label,myAds_ddPromoteSRPGallery3.0,the dropdown list of srp gallery feature,xpath,"//div[@class='feature-options']/select/option[contains(@value,'srpGallery')]/../../select"
+All,All,Label,myAds_ddPromoteTopAd3.0,the dropdown list of top ad feature,xpath,"//div[@class='feature-options']/select/option[contains(@value,'topAd')]/../../select"
+All,All,Label,myAds_optPromoteTopAd15,the option topads 15 days of top ad feature,xpath,//option[@value='topAd15']
+mx_vns,landscape,Button,myAds_btnViewMoreFeature,button to view more feature,xpath,//div[@class='feature-view-controller']
+mx_vns,portrait,Button,myAds_btnViewMoreFeature,button to view more feature,xpath,//div[@class='feature-header-close-wrapper']
+za,All,Button,myAds_btnViewMoreFeature,button to expand feature on za site,xpath,//div[@class='promote-action']
+All,All,Label,myAds_lblHPGallery3.0,homepage gallery,xpath,"//div[@class='my-ads-list']//span[contains(text(),'Galería Principal') or contains(text(),'Homepage gallery')]"
+All,All,Label,myAds_lblHPGallery,homepage gallery,xpath,"//span[@name='hpGallery' and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbHPGallery3.0,homepage gallery checbox,xpath,"//span[contains(text(),'Galería Principal') or contains(text(),'Homepage gallery')]/../../div/label"
+All,All,CheckBox,myAds_chbHPGallery,homepage gallery checbox,xpath,//label[@name='hpGallery']/input
+All,All,Label,myAds_lblHPGalleryAlreadyBought,homepage gallery that has been already bought,xpath,"//span[contains(text(),'Galería Principal') or contains(text(),'Homepage gallery') and @class='label-of-checkbox disabled']"
+All,All,Label,myAds_lblSRPGallery3.0,srp gallery,xpath,"//span[contains(text(),'Galería de categorías') or contains(text(),'Category gallery')]"
+All,All,Label,myAds_lblSRPGallery,srp gallery,xpath,"//span[@name='srpGallery' and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbSRPGallery3.0,srp gallery,xpath,"//span[contains(text(),'Galería de categorías') or contains(text(),'Category gallery')]/../../div/label"
+All,All,CheckBox,myAds_chbSRPGallery,srp gallery,xpath,//label[@name='srpGallery']/input
+mx_vns,All,Label,myAds_lblTopAd3.0,top Ad,xpath,"//span[contains(text(),'Destacado') or contains(text(),'Top ad')]"
+za,All,Label,myAds_lblTopAd3.0,top Ad,xpath,"//span[contains(text(),'Destacado') or contains(text(),'Top ad')]"
+All,All,Label,myAds_lblTopAd,top Ad,xpath,"//label[@name='topAd' and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbTopAd3.0,top Ad,xpath,"//span[contains(text(),'Destacado') or contains(text(),'Top ad')]/../../div/label"
+All,All,CheckBox,myAds_chbTopAd,top Ad,xpath,//label[@name='topAd']/input
+All,All,Label,myAds_lblBumpUp3.0,bump up,xpath,"//span[contains(text(),'Primeros Resultados') or contains(text(),'Bump up')]"
+All,All,Label,myAds_lblBumpUp,bump up,xpath,"//label[contains(@name,'bumpUp') and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbBumpUp3.0,bump up,xpath,"//span[contains(text(),'Primeros Resultados') or contains(text(),'Bump up')]/../../div/label"
+All,All,CheckBox,myAds_chbBumpUp,bump up,xpath,"//label[contains(@name,'bumpUp')]/input"
+All,All,Label,myAds_lblHighlight3.0,highlight,xpath,"//span[contains(text(),'Resalta tu Aviso') or contains(text(),'Highlights')]"
+All,All,Label,myAds_lblHighlight,highlight,xpath,"//label[@name='highlight' and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbHighlight3.0,highlight,xpath,"//span[contains(text(),'Resalta tu Aviso') or contains(text(),'Highlights')]/../../div/label"
+All,All,CheckBox,myAds_chbHighlight,highlight,xpath,//label[@name='highlight']/input
+All,All,Label,myAds_lblUrgent3.0,urgent,xpath,"//span[contains(text(),'Urgente') or contains(text(),'Urgent')]"
+All,All,Label,myAds_lblUrgent,urgent,xpath,"//label[@name='urgent' and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbUrgent3.0,urgent,xpath,"//span[contains(text(),'Urgente') or contains(text(),'Urgent')]/../../div/label"
+All,All,CheckBox,myAds_chbUrgent,urgent,xpath,//label[@name='urgent']/input
+All,All,Label,myAds_lblWebsiteURL3.0,website url on my ads page,xpath,"//span[contains(text(),'Enlace al sitio web') or contains(text(),'Website URL')]"
+All,All,TextField,myAds_txfWebsiteURLInput,input field for website url on my ads page,xpath,"//div[contains(@class,'website-url-wrapper')]//input"
+mx_vns,All,Label,myAds_lblWebsiteURLAlreadyBought,website url that has been already bought,xpath,"//span[contains(text(),'Enlace al sitio web') or contains(text(),'Website URL') and @class='label-of-checkbox disabled']"
+za,All,Label,myAds_lblWebsiteURLAlreadyBought,website url that has been already bought,xpath,"//span[contains(text(),'Enlace al sitio web') or contains(text(),'Website URL')]/../../div[1]/label"
+All,All,Label,myAds_lblWebsiteURLError,the validation error of website url error,xpath,"//div[contains(@class,'website-url-wrapper')]/span/../input"
+All,All,TextField,myAds_txfWebsiteURLError,text of the validation error of website url error,xpath,//span[@class='url-error']
+All,All,Label,myAds_chbBundle,bundle,xpath,//label[@name='bundle']
+All,All,CheckBox,myAds_chxSelectAll,checkbox of select all features in my ads page,xpath,//section[@class='my-ads-page']//div[@class='select-all-checkbox-wrapper']//label
+All,All,TextField,myAds_txfSelectAll,text of select all features in my ads page,xpath,//section[@class='my-ads-page']//div[@class='select-all-description']//span[@class='label']
+All,All,Label,myAds_ddRepostPromoteHPGallery,the dropdown list of homepage gallery feature from myads repost,xpath,//div[@class='repost-my-ad']//select[@name='hpGallery']
+All,All,Label,myAds_ddRepostPromoteSRPGallery,the dropdown list of srp gallery feature from myads repost,xpath,//div[@class='repost-my-ad']//select[@name='srpGallery']
+All,All,Label,myAds_ddRepostPromoteTopAd,the dropdown list of top ad feature from myads repost,xpath,//div[@class='repost-my-ad']//select[@name='topAd']
+All,All,Label,myAds_ddRepostPromoteTopAd3.0,the dropdown list of top ad feature from myads repost,xpath,"//span[contains(text(),'Destacado')]/../..//select"
+All,All,Label,myAds_optRepostPromoteTopAd15,the option topads 15 days of top ad feature from myads repost,xpath,//div[@class='repost-my-ad']//option[@value='topAd15']
+All,All,Label,myAds_optRepostPromoteTopAd153.0,the option topads 15 days of top ad feature from myads repost,xpath,"//span[contains(text(),'Destacado')]/../..//option[@value='topAd15']"
+All,All,Label,myAds_lblRepostHPGallery,homepage gallery from myads repost,xpath,"//div[@class='repost-my-ad']//span[@name='hpGallery' and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbRepostHPGallery,homepage gallery checbox from myads repost,xpath,//div[@class='repost-my-ad']//label[@name='hpGallery']/input
+All,All,Label,myAds_lblRepostSRPGallery,srp gallery from myads repost,xpath,"//div[@class='repost-my-ad']//label[@name='srpGallery' and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbRepostSRPGallery,srp gallery from myads repost,xpath,//div[@class='repost-my-ad']//label[@name='srpGallery']/input
+All,All,Label,myAds_lblRepostTopAd,top Ad from myads repost,xpath,"//div[@class='repost-my-ad']//label[@name='topAd' and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbRepostTopAd,top Ad from myads repost,xpath,//div[@class='repost-my-ad']//label[@name='topAd']/input
+All,All,Label,myAds_lblRepostBumpUp,bump up from myads repost,xpath,"//div[@class='repost-my-ad']//label[contains(@name,'bumpUp') and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbRepostBumpUp,bump up from myads repost,xpath,"//div[@class='repost-my-ad']//label[contains(@name,'bumpUp')]/input"
+All,All,Label,myAds_lblRepostHighlight,highlight from myads repost,xpath,"//div[@class='repost-my-ad']//label[@name='highlight' and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbRepostHighlight,highlight from myads repost,xpath,//div[@class='repost-my-ad']//label[@name='highlight']/input
+All,All,Label,myAds_lblRepostUrgent,urgent from myads repost,xpath,"//div[@class='repost-my-ad']//label[@name='urgent' and contains(@class,'checkbox')]"
+All,All,CheckBox,myAds_chbRepostUrgent,urgent from myads repost,xpath,//div[@class='repost-my-ad']//label[@name='urgent']/input
+All,All,CheckBox,myAds_chxRepostSelectAll,checkbox of select all features from myads repost,xpath,//div[@class='repost-my-ad']//div[@class='each-ad-feature']//label[@name='select-all']/input
+All,All,TextField,myAds_txfRepostSelectAll,text of select all features from myads repost,xpath,//div[@class='repost-my-ad']//div[@class='select-all-description']//span[@class='label']
+All,All,Label,myAds_lblBundleAlreadyBought,bundle package that has been already bought,xpath,//span[@class='label-of-checkbox disabled']
+All,All,Label,myAds_lblUrgentAlreadyBought,urgent that has been already bought,xpath,"//span[contains(text(),'Urgente') or contains(text(),'Urgent') and @class='label-of-checkbox disabled']"
+mx_vns,All,Label,myAds_lblTopAdAlreadyBought,topad that has been already bought,xpath,"//span[contains(text(),'Destacado') or contains(text(),'Top ad') and @class='label-of-checkbox disabled']"
+za,All,Label,myAds_lblTopAdAlreadyBought,topad that has been already bought,xpath,"//span[contains(text(),'Destacado') or contains(text(),'Top ad') and @class='label-of-checkbox']/../../div[@class='feature-checkbox-wrapper']/label"
+All,All,Label,myAds_lblHighlightAlreadyBought,hightlight package that has been already bought,xpath,"//span[contains(text(),'Resalta tu Aviso') or contains(text(),'Highlights') and @class='label-of-checkbox disabled']"
+All,All,Label,myAds_lblBumpUpAlreadyBought,bump up package that has been already bought,xpath,"//span[contains(text(),'Primeros Resultados') or contains(text(),'Bump up') and @class='label-of-checkbox disabled']"
+All,All,Label,myAds_imgPromotedLightning,lightning at the corner of image that this ad has bought feature,xpath,"//a[contains(@class,'each-ad-promoted')]/span"
+mx_vns,All,Button,myAds_btnCheckoutPrice,button to checkout,xpath,//span[@class='sudolink checkout-price']
+za,All,Button,myAds_btnCheckoutPrice,button to checkout,xpath,//div[@class='feature-upsell-checkout']/div[@class='btn-wrapper']/a
+All,All,Button,myAds_btnCancelCheckout,button to cancel checkout,xpath,//div[@class='my-ads-checkout']//a[@class='cancel-link']
+mx_vns,All,TextField,myAds_txfAdTitle,the ad title,xpath,//a[@class='each-ad-title']
+za,All,TextField,myAds_txfAdTitle,the ad title,xpath,//div[@class='each-ad']//a[@class='title']
+mx_vns,All,TextField,myAds_txfAdCategory,the ad category,xpath,//span[@class='each-ad-category']
+za,All,TextField,myAds_txfAdCategory,the ad category,xpath,"//span[contains(text(),'Category:')]/../span[2]"
+mx_vns,All,Label,myAds_imgAdImage,the ad image,xpath,"//a[contains(@class,'each-ad-image')]"
+za,All,Label,myAds_imgAdImage,the ad image,xpath,//div[@class='each-ad']/div[@class='image-block']/a
+All,All,TextField,myAds_Edit,first edit link on my ads page,xpath,//a[@class='each-ad-edit']
+mx_vns,All,TextField,myAds_txfAdPrice,the ad price,xpath,//div[@class='each-ad-price']
+za,All,TextField,myAds_txfAdPrice,the ad price,xpath,//div[@class='each-ad']//span[@class='ad-price']
+mx_vns,All,TextField,myAds_txfAdStatus,the ad status,xpath,//div[@class='each-ad-state-active']/span[2]
+za,All,TextField,myAds_txfAdStatus,the ad status,xpath,"//span[contains(text(),'Status: ')]/../span[@class='state-value']"
+All,All,TextField,myAds_txfAdPendingStatus,the ad pending status,xpath,//div[@class='each-ad'][1]//div[@class='each-ad-state-pending']/div[@class='pending-content']/span[2]
+All,All,TextField,myAds_txfAdExpireStatus,the ad expire status,xpath,//div[@class='each-ad'][1]//div[@class='each-ad-state-expired']/span[2]
+mx_vns,All,Button,myAds_btnCloseExpireOverlay,close button for expire ad overlay,xpath,//div[@class='each-ad-expired-overlay']//span[@class='close-text']
+mx_vns,All,Link,myAds_lnkPopupRepostWithoutBumpup,link to repost without bump up on expire ad overlay,xpath,//div[@class='repost-without-bump']
+za,All,Link,myAds_lnkPopupRepostWithoutBumpup,link to repost without bump up on expire ad overlay,xpath,//div[@class='repost-without-bump']
+za,All,Button,myAds_btnCloseExpireOverlay,close button for expire ad overlay,xpath,//div[@class='each-ad-expired-overlay-modal']//span[@class='icon-close']
+mx_vns,All,Link,myAds_lnkPopupRepostWithBumpup,link to repost with bump up on expire ad overlay,xpath,//div[@class='each-ad-expired-overlay']//span[text()='Primeros Resultados' or text()='Bump Up']
+za,All,Link,myAds_lnkPopupRepostWithBumpup,link to repost with bump up on expire ad overlay,xpath,//div[@class='close-footer']//span[text()='Bump Up']
+mx_vns,All,TextField,myAds_txfAdLocation,the ad location,xpath,//span[@class='each-ad-location-content']
+za,All,TextField,myAds_txfAdLocation,the ad location,xpath,//div[@class='location']/span[@class='name']
+All,All,Label,myAds_imgAdLocationIcon,the ad location small icon before text,xpath,//span[@class='icon-location-marker-alternate']
+mx_vns,All,TextField,myAds_txfAdExpireDate,the ad expire date,xpath,//span[@class='each-ad-post-date']
+za,All,TextField,myAds_txfAdExpireDate,the ad expire date,xpath,//span[@class='status']/../span[2]
+mx_vns,All,Label,myAds_lblAdExpire,label that this ad has been expired,xpath,//div[@class='each-ad-state-expired']
+za,All,Label,myAds_lblAdExpire,label that this ad has been expired,xpath,"//span[@class='expired']/span[contains(text(),'Expired')]"
+mx_vns,All,Link,myAds_lnkRepost,link to reactive expire ad,xpath,//div[@class='each-ad-repost']
+za,All,Link,myAds_lnkRepost,link to reactive expire ad,xpath,//div[@class='repost-action']/div[@class='btn-wrapper without-bump-up']
+mx_vns,All,Link,myAds_lnkRepostWithBumpUp,link to reactive expire ad with bump up,xpath,//div[@class='each-ad-expired-bump-up']
+za,All,Link,myAds_lnkRepostWithBumpUp,link to reactive expire ad with bump up,xpath,//div[@class='repost-action']/div[@class='btn-wrapper with-bump-up']
+All,All,Button,myAds_btnHpGalleryQuestionMark3.0,homepage gallery question mark,xpath,"//span[contains(text(),'Galería Principal') or contains(text(),'Homepage gallery')]/..//span[@class='feature-more icon-question-mark']"
+mx_vns,All,Button,myAds_btnSrpGalleryQuestionMark3.0,srp gallery question mark,xpath,"//span[contains(text(),'Galería de categorías') or contains(text(),'Category gallery')]/../span[@class='feature-more icon-question-mark']"
+za,landscape,Button,myAds_btnSrpGalleryQuestionMark3.0,srp gallery question mark,xpath,"//span[contains(text(),'Category gallery')]/../span/span[@class='feature-learn-more']"
+za,portrait,Button,myAds_btnSrpGalleryQuestionMark3.0,srp gallery question mark,xpath,"//span[contains(text(),'Category gallery')]/../span/span[@class='feature-more icon-question-mark']"
+All,All,Button,myAds_btnTopAdQuestionMark3.0,topAd question mark,xpath,"//span[contains(text(),'Destacado') or contains(text(),'Top ad')]/../span[@class='feature-more icon-question-mark']"
+All,All,Button,myAds_btnBumpUpXYQuestionMark3.0,bumpUpXY question mark,xpath,"//span[contains(text(),'Primeros Resultados') or contains(text(),'Bump up')]/../span[@class='feature-more icon-question-mark']"
+All,All,Button,myAds_btnHighlightQuestionMark3.0,highlight question mark,xpath,"//span[contains(text(),'Resalta tu Aviso') or contains(text(),'Highlights')]/../span[@class='feature-more icon-question-mark']"
+All,All,Button,myAds_btnUrgentQuestionMark3.0,urgent question mark,xpath,"//span[contains(text(),'Urgente') or contains(text(),'Urgent')]/../span[@class='feature-more icon-question-mark']"
+All,All,Button,myAds_btnWebsiteURLQuestionMark3.0,websiteurl question mark,xpath,"//span[contains(text(),'Enlace al sitio web') or contains(text(),'Website URL')]/../span[@class='feature-more icon-question-mark']"
+All,All,TextField,myAds_txfFeatureDetailPopupTitle,homepage gallery feature detail in popup window,xpath,//h1[@class='feature-title h1-text']
+All,All,TextField,myAds_txfHPGalleryDetailPopupTitle,homepage gallery feature detail in popup window,xpath,//div[@class='feature-info-overlay']//h1[@class='feature-title h1-text  title-hpGallery']
+All,All,TextField,myAds_txfSRPGalleryDetailPopupTitle,srp gallery feature detail in popup window,xpath,//div[@class='feature-info-overlay']//h1[@class='feature-title h1-text  title-srpGallery']
+All,All,TextField,myAds_txfTopAdDetailPopupTitle,top ad feature detail in popup window,xpath,//div[@class='feature-info-overlay']//h1[@class='feature-title h1-text  title-topAd']
+All,All,TextField,myAds_txfBumpUpDetailPopupTitle,bump up feature detail in popup window,xpath,//div[@class='feature-info-overlay']//h1[@class='feature-title h1-text  title-bumpUpXY']
+All,All,TextField,myAds_txfHighlightDetailPopupTitle,highlight feature detail in popup window,xpath,//div[@class='feature-info-overlay']//h1[@class='feature-title h1-text  title-highlight']
+All,All,TextField,myAds_txfUrgentDetailPopupTitle,urgent feature detail in popup window,xpath,//div[@class='feature-info-overlay']//h1[@class='feature-title h1-text  title-urgent']
+All,All,TextField,myAds_txfWebsiteURLDetailPopupTitle,website url feature detail in popup window,xpath,//div[@class='feature-info-overlay']//h1[@class='feature-title h1-text  title-websiteurl']
+All,All,TextField,myAds_txfHPGalleryPopup,homepage gallery feature detail in popup window,xpath,//div[@class='feature-info-overlay']/div/div[@class='feature-overlay-modal']/h1[@class='feature-title h1-text  title-hpGallery']
+All,All,TextField,myAds_txfHPGalleryIcon,homepage gallery feature icon in popup window,xpath,//i[@class='feature-icon icon-v2-feature-bumpUp icon-v2-feature-hpGallery']
+All,All,TextField,myAds_txfSrpGalleryPopup,srpGallery feature detail in popup window,xpath,//div[@class='feature-info-overlay']/div/div[@class='feature-overlay-modal']/h1[@class='feature-title h1-text  title-srpGallery']
+All,All,TextField,myAds_txfSrpGalleryIcon,srpGallery feature icon in popup window,xpath,//i[@class='feature-icon icon-v2-feature-bumpUp icon-v2-feature-srpGallery']
+All,All,TextField,myAds_txfTopAdPopup,topAd feature detail in popup window,xpath,//div[@class='feature-info-overlay']/div/div[@class='feature-overlay-modal']/h1[@class='feature-title h1-text  title-topAd']
+All,All,TextField,myAds_txfTopAdIcon,topAd feature icon in popup window,xpath,//i[@class='feature-icon icon-v2-feature-bumpUp icon-v2-feature-topAd']
+All,All,TextField,myAds_txfBumpUpXYPopup,bumpUpXY feature detail in popup window,xpath,"//div[@class='feature-info-overlay']/div/div[@class='feature-overlay-modal']/h1[contains(@class,'bumpUp') and not(contains(@class,'hidden'))]"
+All,All,TextField,myAds_txfBumpUpXYIcon,bumpUpXY feature icon in popup window,xpath,//div[@class='feature-info-overlay']//i[@class='feature-icon icon-v2-feature-bumpUp']
+All,All,TextField,myAds_txfHighlightPopup,highlight feature detail in popup window,xpath,//div[@class='feature-info-overlay']/div/div[@class='feature-overlay-modal']/h1[@class='feature-title h1-text  title-highlight']
+All,All,TextField,myAds_txfHighlightIcon,highlight feature icon in popup window,xpath,//i[@class='feature-icon icon-v2-feature-highlight']
+All,All,TextField,myAds_txfUrgentPopup,urgent feature detail in popup window,xpath,//div[@class='feature-info-overlay']/div/div[@class='feature-overlay-modal']/h1[@class='feature-title h1-text  title-urgent']
+All,All,TextField,myAds_txfUrgentIcon,urgent feature detail in popup window,xpath,//i[@class='feature-icon icon-v2-feature-urgent']
+All,All,TextField,myAds_txfWebsiteURLPopup,website url feature detail in popup window,xpath,"//div[@class='feature-info-overlay']//h1[contains(@class,'title-websiteurl')]"
+All,All,TextField,myAds_txfWebsiteURLIcon,website url feature icon in popup window,xpath,//div[@class='feature-info-overlay']//i
+All,All,TextField,myAds_txfHPGalleryIcon3.0,homepage gallery feature icon in popup window,xpath,//i[@class='feature-icon icon-v2-feature-hpGallery']
+All,All,TextField,myAds_txfSrpGalleryIcon3.0,srpGallery feature icon in popup window,xpath,//i[@class='feature-icon icon-v2-feature-srpGallery']
+All,All,TextField,myAds_txfTopAdIcon3.0,topAd feature icon in popup window,xpath,//i[@class='feature-icon icon-v2-feature-topAd']
+All,All,TextField,myAds_txfBumpUpXYIcon3.0,bumpUpXY feature icon in popup window,xpath,"//i[contains(@class,'feature-icon icon-v2-feature-bumpUp')]"
+All,All,TextField,myAds_txfHighlightIcon3.0,highlight feature icon in popup window,xpath,//i[@class='feature-icon icon-v2-feature-highlight']
+All,All,TextField,myAds_txfUrgentIcon3.0,urgent feature detail in popup window,xpath,//i[@class='feature-icon icon-v2-feature-urgent']
+All,All,TextField,myAds_txfWebsiteURLIcon3.0,website url feature icon in popup window,xpath,//i[@class='feature-icon icon-v2-feature-websiteurl']
+All,All,Button,myAds_btnCancelPopup,cancel button of feature detail in popup window,xpath,//div[@class='feature-info-overlay']//span[@class='sudolink' and (text()='Cerrar' or text()='Cancel')]
+All,All,Link,myAds_lnkCancelPopup,cancel text of feature detail in popup window,xpath,//div[@class='feature-info-overlay']//span[@class='close-text' and (text()='Cerrar' or text()='Cancel')]
+All,All,Button,myAds_btnXIconPopup,X icon of feature detail in popup window,xpath,//div[@class='feature-info-overlay']//span[@class='icon-close']
+All,landscape,TextField,myAds_txfTotalCount,all ads total count,xpath,//div[@class='my-ads-tabs-desktop-wrapper']/div/div/span[@class='total-count']
+All,portrait,TextField,myAds_txfTotalCount,all ads total count,xpath,//div[@class='my-ads-tabs-mobile my-ads-tabs-mobile-top']/div[1]/div/span[@class='total-count']
+All,landscape,TextField,myAds_txfTotalTabTitle,all ads tab title text,xpath,"//div[@class='tab-content' and (contains(text(),'Todos los anuncios') or contains(text(),'All Ads'))]"
+All,portrait,TextField,myAds_txfTotalTabTitle,all ads tab title text,xpath,"//div[@class='mobile-tab-body' and (contains(text(),'Todos los anuncios') or contains(text(),'All Ads'))]"
+All,landscape,TextField,myAds_txfActiveCount,all active ads count,xpath,"//div[@class='tab-content' and (contains(text(),'Anuncios activos') or contains(text(),'Active Ads'))]/span"
+All,portrait,TextField,myAds_txfActiveCount,all active ads count,xpath,"//div[@class='mobile-tab-body' and (contains(text(),'Anuncios activos') or contains(text(),'Active Ads'))]/span[@class='total-count']"
+All,landscape,TextField,myAds_txfActiveTabTitle,active ads tab title text,xpath,"//div[@class='tab-content' and (contains(text(),'Anuncios activos') or contains(text(),'Active Ads'))]"
+All,portrait,TextField,myAds_txfActiveTabTitle,active ads tab title text,xpath,"//div[@class='mobile-tab-body' and (contains(text(),'Anuncios activos') or contains(text(),'Active Ads'))]"
+mx_vns,landscape,TextField,myAds_txfPendingCount,all pending ads count,xpath,"//div[@class='my-ads-tabs-desktop-wrapper']/div/div[@class='tab-content' and contains(text(),'Anuncios pendientes')]/span"
+mx_vns,portrait,TextField,myAds_txfPendingCount,all pending ads count,xpath,"//div[@class='my-ads-tabs-mobile']/div/div[@class='mobile-tab-body' and contains(text(),'Anuncios pendientes')]/span[@class='total-count']"
+za,landscape,TextField,myAds_txfPendingCount,all pending ads count,xpath,"//div[@class='my-ads-tabs-desktop-wrapper']/div/div[@class='tab-content' and contains(text(),'Pending Ads')]/span"
+za,portrait,TextField,myAds_txfPendingCount,all pending ads count,xpath,"//div[@class='my-ads-tabs-mobile']/div/div[@class='mobile-tab-body' and contains(text(),'Pending Ads')]/span[@class='total-count']"
+All,landscape,TextField,myAds_txfPendingTabTitle,pending ads tab title text,xpath,"//div[@class='tab-content' and (contains(text(),'Anuncios pendientes') or contains(text(),'Pending Ads'))]"
+All,portrait,TextField,myAds_txfPendingTabTitle,pending ads tab title text,xpath,"//div[@class='mobile-tab-body' and (contains(text(),'Anuncios pendientes') or contains(text(),'Pending Ads'))]"
+All,landscape,TextField,myAds_txfExpiredCount,all expired ads count,xpath,"//div[@class='tab-content' and (contains(text(),'Anuncios expirados') or contains(text(),'Expired Ads'))]/span[@class='total-count']"
+All,portrait,TextField,myAds_txfExpiredCount,all expired ads count,xpath,"//div[@class='mobile-tab-body' and (contains(text(),'Anuncios expirados') or contains(text(),'Expired Ads'))]/span[@class='total-count']"
+All,landscape,TextField,myAds_txfExpiredTabTitle,expired ads tab title text,xpath,"//div[@class='tab-content' and (contains(text(),'Anuncios expirados') or contains(text(),'Expired Ads'))]"
+All,portrait,TextField,myAds_txfExpiredTabTitle,expired ads tab title text,xpath,"//div[@class='mobile-tab-body' and (contains(text(),'Anuncios expirados') or contains(text(),'Expired Ads'))]"
+All,portrait,Button,myAds_btnFilterExpandIcon,filter ads arrow expand icon,xpath,//span[@class='icon-down-white']
+All,portrait,Button,myAds_btnFilterCollapseIcon,filter ads arrow collapse icon,xpath,//span[@class='icon-up']
+mx_vns,All,Link,myAds_pendingPay,IF ads payment link,xpath,//span[@class='pending-payment-label']
+za,All,Link,myAds_pendingPay,IF ads payment link,xpath,//span[@class='pending-detail']
+All,All,Label,myAds_lblAdModule,the each ad module on my ads page,xpath,//div[@class='each-ad']
+mx_vns,landscape,Link,myAds_linkPendingTab,the pending tab on my ads page,xpath,"//div[@class='tab-content' and contains(text(),'Anuncios pendientes')]"
+za,landscape,Link,myAds_linkPendingTab,the pending tab on my ads page,xpath,"//div[@class='tab-content' and contains(text(),'Pending Ads')]"
+mx_vns,portrait,Link,myAds_linkPendingTab,the pending tab on my ads page,xpath,"//div[@class='mobile-tab-body' and contains(text(),'Anuncios pendientes')]"
+za,portrait,Link,myAds_linkPendingTab,the pending tab on my ads page,xpath,"//div[@class='mobile-tab-body' and contains(text(),'Pending Ads')]"
+mx_vns,All,Link,myAds_linkPendingLearnMore,the pending learn more on my ads page,xpath,//div[@class='pending-learn-more']
+za,All,Link,myAds_linkPendingLearnMore,the pending learn more on my ads page,xpath,"//span[@class='pending-detail']/a[contains(text(),'Learn more')]"
+All,All,TextField,myAds_txfNoAdsTip,textfield tip when no ads on my ads page,xpath,"//div[contains(@class,'no-ads no-all-ads')]/span"
+All,All,Link,myAds_lnkPostAd,post ad link when no ads on my ads page,xpath,"//div[contains(@class,'no-ads no-all-ads')]/a"
+All,All,Label,myAds_lblAdPendingIcon,pending icon on my ads page,xpath,//span[@class='icon-ad-pending-state']/../span[2]
+All,All,Link,myAds_lnkAdPendingContactUs,pending contact us link on my ads page,xpath,//a[@class='pending-contact-us']
+mx_vns,All,TextField,myAds_txfDeleteAdCancelPopup,cancel text in delete ad popup window,xpath,//div[@class='delete-ad-overlay']//span[@class='close-text']
+za,All,TextField,myAds_txfDeleteAdCancelPopup,cancel text in delete ad popup window,xpath,//div[@class='delete-ad-overlay']//div[@class='footer-V2']//div[@class='delete-cancel']
+mx_vns,All,Button,myAds_btnDeleteAdCancelIconPopup,cancel icon in delete ad popup window,xpath,//div[@class='delete-ad-overlay-modal']//span[@class='icon-close']
+za,All,Button,myAds_btnDeleteAdCancelIconPopup,cancel icon in delete ad popup window,xpath,//span[@class='icon-close-small-oasis']
+mx_vns,All,Button,myAds_btnDeleteAdCancelButtonPopup,cancel button in delete ad popup window,xpath,//div[@class='delete-ad-overlay']//a[@class='cancel-link']
+za,All,Button,myAds_btnDeleteAdCancelButtonPopup,cancel button in delete ad popup window,xpath,//div[@class='delete-ad-overlay']//div[@class='footer-V2']//div[@class='delete-cancel']
+mx_vns,All,TextField,myAds_txfDeleteAdModalTitle,the title of the delete ad popup window,xpath,//span[@class='delete-ad-header']
+za,All,TextField,myAds_txfDeleteAdModalTitle,the title of the delete ad popup window,xpath,//span[@class='delete-info']
+All,All,TextField,myAds_txfDeleteAdModalAdTitle,the ad title of the delete ad popup window,xpath,//span[@class='delete-ad-title']
+All,All,TextField,myAds_txfDeleteAdModalAdPrice,the ad price of the delete ad popup window,xpath,//span[@class='delete-ad-price']//span[@class='ad-price']
+All,All,TextField,myAds_txfSellerBadgeTitle,the seller badge title on my ads page,xpath,//div[@class='my-ads-seller-badge']//h1
+All,All,TextField,myAds_txfSellerBadgeDesc,the seller badge text under title on my ads page,xpath,//div[@class='seller-badge']//p[@class='content']
+All,All,TextField,myAds_txfSellerBadgeLink,the seller badge copy link on my ads page,xpath,//div[@class='my-ads-seller-badge']//div[@class='code']/code
+All,All,Button,myAds_btnCopySellerBadgeLink,button to copy seller badge link on my ads page,xpath,//span[text()='Copy Code' or text()='Copiar código' or text()='Copy code']
+All,All,RadioButton,myAds_rbLargeSellerBadge,the large seller badge on my ads page,xpath,//div[@class='seller-badge']//label[1]
+All,All,RadioButton,myAds_rbSmallSellerBadge,the small seller badge on my ads page,xpath,//div[@class='seller-badge']//label[2]
+mx_vns,All,Button,myAds_btnCheckout,the check out button,xpath,//div[@class='my-ads-checkout']//a[@class='checkout-button btn']
+za,All,Button,myAds_btnCheckout,the check out button,xpath,"//span[contains(text(),'Pay Now (R')]"
+All,All,Label,myAds_chbTopAd1,the first ad's top Ad,xpath,"//div[@class='my-ads-list-content']//div[@class='each-ad'][1]//span[contains(text(),'Destacado') or contains(text(),'Top ad')]/../../div/label"
+All,All,Label,myAds_chbHPGallery1,the first ad's homepage gallery,xpath,"//div[@class='my-ads-list-content']//div[@class='each-ad'][1]//span[contains(text(),'Galería Principal') or contains(text(),'Homepage gallery')]/../../div/label"
+All,All,Label,myAds_chbHPGallery2,the second ad's homepage gallery,xpath,"//div[@class='my-ads-list-content']//div[@class='each-ad'][2]//span[contains(text(),'Galería Principal') or contains(text(),'Homepage gallery')]/../../div/label"
+All,All,Label,myAds_chbTopAd2,the second ad's top Ad,xpath,"//div[@class='my-ads-list-content']//div[@class='each-ad'][2]//span[contains(text(),'Destacado') or contains(text(),'Top ad')]/../../div/label"
+All,All,Label,myAds_chbSRPGallery2,the second ad's srpgallery,xpath,"//div[@class='my-ads-list-content']//div[@class='each-ad'][2]//span[contains(text(),'Galería de categorías') or contains(text(),'Category gallery')]/../../div/label"
+mx_vns,landscape,Label,myAd_btnPromoteAd1,the promote first ad label on upsell,xpath,//div[@class='my-ads-list-content']//div[@class='each-ad'][1]//div[@class='each-ad-feature-desktop-header']//span[@class='each-ad-feature-title']
+mx_vns,portrait,Label,myAd_btnPromoteAd1,the promote first ad label on upsell,xpath,//div[@class='my-ads-list-content']//div[@class='each-ad'][1]//div[@class='each-ad-feature-mobile-header']//div[@class='feature-header-close-wrapper']//span[@class='each-ad-feature-title']
+za,landscape,Label,myAd_btnPromoteAd1,the promote first ad label on upsell,xpath,//div[@class='my-ads-list-content']//div[@class='each-ad'][1]//div[@class='each-ad-feature-desktop-header']//span[@class='each-ad-feature-title']
+za,portrait,Label,myAd_btnPromoteAd1,the promote first ad label on upsell,xpath,//div[@class='my-ads-list-content']//div[@class='each-ad'][1]//div[@class='each-ad-feature-mobile-header']//div[@class='feature-header-close-wrapper']//span[@class='each-ad-feature-title']
+All,portrait,Label,myAd_btnPromoteAd2,the promote second ad label on upsell,xpath,//div[@class='each-ad'][2]//div[@class='feature-header-close-wrapper']
+All,All,Label,myAds_lblFirstAd,the first ad,xpath,//div[@class='my-ads-list-content']/div[1]//a[@class='each-ad-title']
+All,All,Button,myAds_btnDraftPost,draft post button,xpath,//div[@class='draft-button']//a
+All,All,TextField,myAds_txfDraftPost,draft post icon Terminar anuncio,xpath,//div[@class='draft-button']//a/span
+All,All,Button,myAds_btnDeleteDraft,delete draft button,xpath,//div[@class='delete-draft']/span[@class='icon-delete-ad']
+All,All,TextField,myAds_txfDraftTitle,draft title,xpath,//div[@class='draft-ad-text']/span[@class='draft-ad-content']
+All,All,Label,myAds_lblOpenCheckoutCart,open the checkout cart of shopping cart,xpath,//div[@class='checkout-sticky-btn']
+All,All,Label,myAds_lblCloseCheckoutCart,close the checkout cart of shopping cart,xpath,//div[@class='scroll-detail-close']
+All,All,TextField,myAds_txfCheckoutCartNoItems,the checkout items text of shopping cart,xpath,//div[@class='checkout-sticky-btn-empty']//div[@class='checkout-items-text']
+All,All,TextField,myAds_txfCheckoutCartItems,the checkout items text of shopping cart,xpath,"//div[contains(@class,'checkout-sticky-btn-active')]//div[@class='checkout-items-text']"
+All,All,Button,myAds_btnCancelCartCheckout,the cancel button of shopping cart,xpath,//div[@class='non-empty-cart']//div[text()='Continuar']
+All,All,Button,myAds_btnCancelEmptyCartCheckout,the cancel button of shopping cart,xpath,//div[@class='empty-cart']//div[text()='Continuar']
+All,All,Button,myAds_btnCartCheckout,the checkout button of shopping cart,xpath,"//div[@class='non-empty-cart']//span[contains(text(),'Pagar')]"
+All,All,Button,myAds_btnCartRemoveFeature,remove single feature of shopping cart,xpath,//div[@class='cart-element-content-remove']/span
+All,All,Button,myAds_btnCartRemoveAllFeature,remove all features of shopping cart,xpath,"//div[contains(@class,'cart-remove-all')]"
+All,All,Button,myAds_btnCartCancelRemoveAllFeature,confirm remove all features of shopping cart,xpath,//div[@class='shopping-cart-button-left confirm-popup-no']
+All,All,Button,myAds_btnCartConfirmRemoveAllFeature,cancel remove all features of shopping cart,xpath,//div[@class='shopping-cart-button-right confirm-popup-yes']
+za,All,Label,myAds_lblSelectAll3.0,select all feature label in myAds,xpath,//div[@class='select-all-description']/span[@class='label']
+za,All,Link,myAds_btnCancelCheckout3.0,select all feature label in myAds,xpath,"//div[@class='my-ads-checkout']//a[contains(text(),'Cancel')]"
+All,All,Button,myAds_btnRemoveLastAdTopAd,remove top ad feature of last ad in shopping cart,xpath,"//div[contains(@class,'ad-checkout-cart-last-element')]//span[contains(text(),'Destacado')]/../..//span[contains(text(),'Eliminar')] "
+za,All,Button,myAds_general_upsellV2_firstAdPromote,the promote button of the first ad,css,.each-ad:first-of-type .mobile-wrapper .btn-wrapper
+za,All,Button,myAds_general_upsellV2_secondAdPromote,the promote button of the second ad,css,.each-ad:nth-of-type(2) .mobile-wrapper .btn-wrapper
+za,All,Button,myAds_general_upsellV2_lastAdPromote,the promote button of the last ad,css,.each-ad:nth-last-of-type(4) .mobile-wrapper .btn-wrapper
+za,All,Button,myAds_general_upsellV2_featuresOfTheFirstAd,features wrapper of the first ad,css,.each-ad:first-of-type .myads-feature-upsell-v2
+za,All,Button,myAds_desktop_upsellV2_checkoutOfTheFirstAd,checkout button the first ad,css,.each-ad:first-of-type .myads-feature-upsell-v2 .feature-upsell-checkout .btn-wrapper
+za,All,Button,myAds_desktop_upsellV2_firstFeatureOfTheFirstAd,first feature wrapper of the first ad,css,.each-ad:first-of-type .feature-wrapper:first-of-type
+za,All,Button,myAds_desktop_upsellV2_secondFeatureOfTheFirstAd,second feature wrapper of the first ad,css,.each-ad:first-of-type .feature-wrapper:nth-of-type(2)
+za,All,Button,myAds_desktop_upsellV2_thirdFeatureOfTheFirstAd,third feature wrapper of the first ad,css,.each-ad:first-of-type .feature-wrapper:nth-of-type(3)
+za,All,Button,myAds_desktop_upsellV2_lastFeatureOfTheFirstAd,last feature wrapper of the first ad,css,.each-ad:first-of-type .feature-wrapper:last-of-type
+za,All,Button,myAds_mobile_upsellV2_firstFeatureOfTheFirstAd,first feature wrapper of the first ad,css,.each-ad:first-of-type .feature-wrapper:first-of-type .feature-selection-wrapper
+za,All,Button,myAds_mobile_upsellV2_secondFeatureOfTheFirstAd,second feature wrapper of the first ad,css,.each-ad:first-of-type .feature-wrapper:nth-of-type(2) .feature-selection-wrapper
+za,All,Button,myAds_mobile_upsellV2_thirdFeatureOfTheFirstAd,third feature wrapper of the first ad,css,.each-ad:first-of-type .feature-wrapper:nth-of-type(3) .feature-selection-wrapper
+za,All,Button,myAds_mobile_upsellV2_lastFeatureOfTheFirstAd,last feature wrapper of the first ad,css,.each-ad:first-of-type .feature-wrapper:last-of-type .feature-selection-wrapper
+za,All,Button,myAds_mobile_upsellV2_fourthFeatureOfTheSecondAd,fourth feature wrapper of the second ad,css,.each-ad:nth-of-type(2) .feature-wrapper:nth-of-type(4) .feature-selection-wrapper
+za,All,Button,myAds_general_upsellV2_checkedCheckBoxOfTheFirstFeatureOfTheFirstAd,first feature wrapper of the first ad,css,.each-ad:first-of-type .feature-wrapper:first-of-type .icon-input-checkbox-checked
+za,All,Button,myAds_general_upsellV2_checkedCheckBoxOfTheLastFeatureOfTheFirstAd,first feature wrapper of the first ad,css,.each-ad:first-of-type .feature-wrapper:last-of-type .icon-input-checkbox-checked
+za,All,Button,myAds_mobile_upsellV2_visibleStickyCheckout,mobile visible sticky checkout button,css,.myads-bottom-sticky:not(.myads-bottom-sticky__hidden)
+za,All,Button,myAds_mobile_upsellV2_AnchorVisibleStickyCheckout,mobile visible sticky checkout button,css,.myads-bottom-sticky:not(.myads-bottom-sticky__hidden) a
+za,All,Button,myAds_desktop_upsellV2_selectionOfTheFirstFeatureOfTheFirstAd,label name tells,css,.each-ad:first-of-type .feature-wrapper:first-of-type .price-detail
+za,All,Button,myAds_desktop_upsellV2_firstOptionOfSelectionOfTheFirstFeatureOfTheFirstAd,label name tells,css,.each-ad:first-of-type .feature-wrapper:first-of-type .price-detail option:nth-of-type(2)
+za,All,Button,myAds_desktop_upsellV2_secondOptionOfSelectionOfTheFirstFeatureOfTheFirstAd,label name tells,css,.each-ad:first-of-type .feature-wrapper:first-of-type .price-detail option:nth-of-type(3)
+za,All,Button,myAds_desktop_upsellV2_thirdOptionOfSelectionOfTheFirstFeatureOfTheFirstAd,label name tells,css,.each-ad:first-of-type .feature-wrapper:first-of-type .price-detail option:nth-of-type(4)

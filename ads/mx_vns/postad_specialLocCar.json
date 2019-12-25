@@ -1,0 +1,50 @@
+{
+  "title": "BAPI post car ad for vip",
+  "description": "BAPI post car ad for vip for BDD Redesign case",
+  "categoryId":69,
+"location": {    "latitude": "19.0412967","longitude": "-98.2061996"},
+"price":{
+      "priceType":"FIXED",
+      "currency":"USD",
+        "amount":"488"
+      
+  },
+  "imageUrls":[     "https://i.ebayimg.com/00/s/MjIwWDM1Mg==/z/wlsAAOSwZgNZyzcJ/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NTAwWDgwMA==/z/iPIAAOSwXAJZyzb9/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/MjIwWDI5Mw==/z/WwAAAOSwQttZyzcJ/$_18.JPG?set_id=8800004005"],
+  "categoryAttributes":
+  [ 
+        { 
+            "name":"CarMileageInKms", 
+            "value":"1234" 
+        }, 
+        { 
+            "name":"CarYear", 
+            "value":"2015" 
+        },
+        {
+            "name":"AlmVehicleBrand", 
+            "value":"bmw" 
+        },
+        {
+            "name":"AlmVehicleModel",
+            "value":"f650"
+        },
+        {
+            "name":"ForSaleBy",
+            "value":"ownr"
+        },
+        {
+            "name":"CarEngineDisplacement",
+            "value":"233"
+        },
+        {
+            "name":"AlmCarFuelType",
+            "value":"gas"
+        },
+        {
+            "name":"AlmCarColor",
+            "value":"yellow"
+        }
+    ]
+}

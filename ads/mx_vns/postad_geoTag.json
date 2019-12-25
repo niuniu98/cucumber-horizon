@@ -1,0 +1,40 @@
+{  
+   "title":"Redesign BAPI post an ad with special geo for test srp pagination",
+   "phone":"4089302343",
+   "description":"BAPI post an ad description with special geo for test srp pagination",
+   "categoryId":1097,
+   "location":{  
+      "latitude":25.547789107590788,
+      "longitude":-100.23059469999998,
+      "radius":0
+   },
+   "categoryAttributes":[  
+      {  
+         "name":"DwellingType",
+         "value":"house"
+      },
+      {  
+         "name":"NumberBedrooms",
+         "value":"3"
+      },
+      {  
+         "name":"NumberBathrooms",
+         "value":"20"
+      },
+      {  
+         "name":"Parking",
+         "value":"covrd"
+      }
+   ],
+   "imageUrls":[
+  	"https://i.ebayimg.com/00/s/NTMzWDgwMA==/z/NxAAAOSwgHJZyzb9/$_18.JPG?set_id=8800005007",
+  	"https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/WiUAAOSw3RhZyzbb/$_18.JPG?set_id=8800005007",
+  	"https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/nnIAAOSwpC1Zyza6/$_18.JPG?set_id=8800005007",
+  	"https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/puEAAOSwH4FZyzdA/$_18.JPG?set_id=8800005007"
+  ],
+   "price":{  
+      "priceType":"MAKE_OFFER",
+      "currency":"MXN",
+      "amount":43243
+   }
+}

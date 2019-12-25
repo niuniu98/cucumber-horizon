@@ -1,0 +1,62 @@
+{
+  "title": "Land-Rover  Freelander  2018  Kilometraje 8888",
+  "description": "Land-Rover  Freelander  2018  Kilometraje 8888, ONLY for SRP search ",
+  "categoryId":68,
+"location": {    "latitude": "19.373250005584016", "longitude": "-99.14085939999995"},
+"price":{
+      "priceType":"FIXED",
+      "currency":"MXN",
+        "amount":"5555555"
+      
+  },
+  "imageUrls":[    "https://i.ebayimg.com/00/s/MzM0WDQ0NQ==/z/WhgAAOSw3RhZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/5MIAAOSwz9FZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/UToAAOSwS1VZyzZ~/$_18.JPG?set_id=8800005007"],
+  "categoryAttributes":
+  [ 
+        { 
+            "name":"CarMileageInKms", 
+            "value":"8888" 
+        }, 
+        { 
+            "name":"CarYear", 
+            "value":"2018" 
+        },
+        {
+            "name":"AlmVehicleBrand", 
+            "value":"land_rover" 
+        },
+        {
+            "name":"AlmVehicleModel",
+            "value":"freelander"
+        },
+        {
+            "name":"ForSaleBy",
+            "value":"ownr"
+        },
+        {
+            "name":"CarBodyType",
+            "value":"suv"
+        },
+        {
+            "name":"DriveTrain",
+            "value":"awd"
+        },
+        {
+            "name":"AlmCarFuelType",
+            "value":"gas"
+        },
+        {
+            "name":"CarTransmission",
+            "value":"2"
+        },
+        {
+            "name":"AirConditioning",
+            "value":"1"
+        },
+        {
+            "name":"AlmCarColor",
+            "value":"blue"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,desktop,Link,CMPBannerLinkDesktop,cmp link,xpath,"//div[@class='message-desktop']//div[@class='consent-description']/a"
+All,mobile,Link,CMPBannerLinkMobile,cmp link,xpath,"//div[@class='message-mobile']//div[@class='consent-description']/a"
+All,desktop,Link,CMPAcceptButtonDesktop,cmp accept button,xpath,"//div[@class='message-desktop']//div[contains(@class,'accept-consent')]"
+All,mobile,Link,CMPAcceptButtonMobile,cmp accept button,xpath,"//div[@class='message-mobile']//div[contains(@class,'accept-consent')]"
+All,All,Link,CMPAcceptButton,cmp accept button in  manage page,xpath,"//div[@id='consent-accept-section']/div[@class='accept-botton']"
+All,All,Link,CMPShowPartnerLink,show more partner,xpath,"//div[@id='contentSelection']//div[contains(@class,'hide-list')]"
+All,All,Link,CMPHidePartnerLink,hide more partner,xpath,"//div[@id='contentSelection']//div[contains(@class,'show-list')]"
+All,All,Link,CMPContentSelection,block for content selection,xpath,"//div[@id='contentSelection']//div[contains(@class,'section-content')]"
+All,All,Area,CMPNotice,the block of banner,xpath,"//div[@class='consent-notice']"
+All,desktop,Link,CMPManageButtonDesktop,cmp manage button,xpath,"//div[@class='message-desktop']//a[contains(@class,'manage-consent')]"
+All,mobile,Link,CMPManageButtonMobile,cmp manage button,xpath,"//div[@class='message-mobile']//a[contains(@class,'manage-consent')]"
+All,All,Area,CMPInformationBlock,the block of information text,xpath,"//div[@class='infomation-gathered-list']"

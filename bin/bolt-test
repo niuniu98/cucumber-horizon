@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+process.env.NODE_ENV = process.env.NODE_ENV || 'test';
+
+// bolt-test config file -> protractor
+// read config file
+// set config file to protractor config file
+// run protractor
+require('../node_modules/protractor/built/cli.js');

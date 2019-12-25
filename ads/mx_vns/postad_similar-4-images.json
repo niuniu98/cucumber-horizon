@@ -1,0 +1,19 @@
+{
+  "title":"qwertyuiop similar ad image count testing and contains four images",
+  "description":"qwertyuiop similar ad image count testing and contains four images",
+  "categoryId":"1071",
+  "price":{
+    "currency":"MXN",
+    "amount":"456"
+  },
+  "location": {
+    "latitude": "20.9673702",
+    "longitude": "-89.5925857"
+  },
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/KFMAAOSwu1xZyza4/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDc1Mg==/z/KnsAAOSwvWVZyza5/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/Mzg2WDY0MA==/z/3w4AAOSwBj5Zyza5/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/prkAAOSwH4FZyza6/$_18.JPG?set_id=8800005007"
+  ]
+}

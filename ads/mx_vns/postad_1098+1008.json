@@ -1,0 +1,18 @@
+
+{
+  "title":"aguascalientes for test trending link popularword016",
+  "description":"BAPI post an ad description aguascalientes for test trending link popularword016",
+  "categoryId":"1098",
+  "price":{
+    "currency":"MXN",
+    "amount":"984"
+  },
+  "location": {
+    "latitude": "19.24647",
+    "longitude": "-99.10135"
+  },
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NTAwWDgwMA==/z/iPIAAOSwXAJZyzb9/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/MjIwWDI5Mw==/z/WwAAAOSwQttZyzcJ/$_18.JPG?set_id=8800004005"
+  ]
+}

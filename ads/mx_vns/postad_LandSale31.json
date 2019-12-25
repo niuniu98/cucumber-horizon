@@ -1,0 +1,28 @@
+{
+  "title":"land for sale ads (31) from real estate",
+  "description":"land for sale ads from real estate",
+  "categoryId":"31",
+  "price":{
+    "currency":"USD",
+    "amount":"32323"
+    },
+  "location": {
+    "latitude": "20.5651988",
+    "longitude": "-100.4372663"
+  },
+  "categoryAttributes": [
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":4235
+    }
+  ],
+   
+  "imageUrls":[
+   "https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/630AAOSwIztchsxw/$_18.JPG?set_id=8800005007",
+   "https://i.ebayimg.com/00/s/NDgwWDgwMA==/z/UB8AAOSwIqRchsxw/$_18.JPG?set_id=8800005007"   
+    ]
+}

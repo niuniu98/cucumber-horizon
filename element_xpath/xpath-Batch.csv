@@ -1,0 +1,18 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,All,Link,batch_lnkAdExpirationJobRunner,the lnk of batch job AdExpirationJobRunner,xpath,//td//a[@href='/batch/batch-scheduler/job/run-job?jobName=AdExpirationJobRunner&jobGroup=DEFAULT&triggerName=AdExpirationJobRunner&triggerGroup=DEFAULT']
+All,All,Link,batch_lnkAdAlmostExpiredReminderJob,link to run AdAlmostExpiredReminderJob,xpath,"//a[contains(@href,'run-parameter-job?jobName=AdAlmostExpiredReminderJobRunner')]"
+All,All,Link,batch_lnkOxxoReminderEmailJob,link to run OxxoReminderEmailJob,xpath,"//a[contains(@href,'run-job?jobName=OxxoReminderEmailJobRunner')]"
+All,All,TextField,batch_txfEndTimeAlmostExpiredReminder,the text field to input end time,xpath,//input[@name='param_dateRangeEnd']
+All,All,TextField,batch_txfStartTimeAlmostExpiredReminder,the text field to input start time,xpath,//input[@name='param_dateRangeStart']
+All,All,TextField,batch_startTimeTxtField,the text field to input start time,xpath,//input[@name='param_dateRangeStart']
+All,All,TextField,batch_endTimeTxtField,the text field to input end time,xpath,//input[@name='param_dateRangeEnd']
+All,All,Button,batch_btnSubmitBatch,the button to submit batch job,xpath,//input[@type='submit']
+All,All,Link,batch_lnkAutoRefundPrepareJob,link to run AutoRefundPrepareJob,xpath,"//a[contains(@href,'run-parameter-job?jobName=AutoRefundPrepareJob')]"
+All,All,Link,batch_lnkTnsSendRepliesJobRunner,link to tns send reply job runner,xpath,"//td//a[@href='/batch/batch-scheduler/job/run-parameter-job?jobName=TnsSendRepliesJobRunner&jobGroup=DEFAULT&triggerName=TnsSendRepliesJobRunner&triggerGroup=DEFAULT']"
+All,All,Link,batch_DMPUserDataSyncJobRunner,link to sync DMP user data,xpath,"//td//a[@href='/batch/batch-scheduler/job/run-job?jobName=DMPUserDataSyncJobRunner&jobGroup=DEFAULT&triggerName=DMPUserDataSyncJobRunner&triggerGroup=DEFAULT']"
+All,All,Link,batch_lnkAdArchiveJobRunner,link to archive ad job,xpath,"//td/a[@href='/batch/batch-scheduler/job/run-parameter-job?jobName=AdArchiveJobRunner&jobGroup=DEFAULT&triggerName=AdArchiveJobRunner&triggerGroup=DEFAULT']"
+All,All,Link,batch_lnkRollupArchivedAdJobRunner,link to archive ad job,xpath,"//td/a[@href='/batch/batch-scheduler/job/run-parameter-job?jobName=RollupArchivedAdJobRunner&jobGroup=DEFAULT&triggerName=RollupArchivedAdJobRunner&triggerGroup=DEFAULT']"
+All,All,Link,batch_AdDraftEditReminderJobRunner,link to draft edit reminder ad job,xpath,"//td/a[@href='/batch/batch-scheduler/job/run-job?jobName=AdDraftEditReminderJobRunner&jobGroup=DEFAULT&triggerName=AdDraftEditReminderJobRunner&triggerGroup=DEFAULT']"
+All,All,Link,batch_IndeedFeedJobRunner,link to draft edit reminder ad job,xpath,"//td/a[@href='/batch/batch-scheduler/job/run-job?jobName=IndeedFeedJobRunner&jobGroup=DEFAULT&triggerName=IndeedFeedJobRunner&triggerGroup=DEFAULT']"
+All,All,Link,batch_LnkAbandonedOrderReminderJobRunner,the lnk of batch job AbandonedOrderReminderJobRunner,xpath,"//td//a[@href='/batch/batch-scheduler/job/run-parameter-job?jobName=AbandonedOrderReminderJobRunner&jobGroup=DEFAULT&triggerName=AbandonedOrderReminderJobRunner&triggerGroup=DEFAULT']"
+All,All,Link,batch_LnkAutomatedRecommendationJobRunner,the lnk of batch job AutomatedRecommendationJobRunner,xpath,"//td//a[@href='/batch/batch-scheduler/job/run-parameter-job?jobName=AutomatedRecommendationJobRunner&jobGroup=DEFAULT&triggerName=AutomatedRecommendationJobRunner&triggerGroup=DEFAULT']"

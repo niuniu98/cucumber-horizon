@@ -1,0 +1,45 @@
+{
+  "title": "post house for test related ads",
+  "description": "BAPI post a house ad for test related ads. Here is some content more than 3 line. and add some number 222222. Here is some content more than 3 line. and add some number 222222. Here is some content more than 3 line. and add some number 222222. Here is some content more than 3 line. and add some number 222222. Here is some content more than 3 line. and add some number 222222. Here is some content more than 3 line. and add some number 222222. Here is some content more than 3 line. and add some number 222222. Here is some content more than 3 line. and add some number 222222. Here is some content more than 3 line. and add some number 222222. Here is some content more than 3 line. and add some number 222222. Here is some content more than 3 line. and add some number 222222.",
+  "categoryId": "1097",
+  "price": {
+    "currency": "MXN",
+    "amount": "222222"
+  },
+  "location": {
+    "latitude": "19.390998",
+    "longitude": "-99.1439285"
+  },
+  "categoryAttributes": [
+    {
+      "name": "NumberBathrooms",
+      "value": 44
+    },
+    {
+      "name": "DwellingType",
+      "value": "house"
+    },
+    {
+      "name": "NumberBedrooms",
+      "value": 6
+    },
+    {
+      "name": "DwellingForSaleBy",
+      "value": "agncy"
+    },
+    {
+      "name": "AreaInMeters",
+      "value": 123
+    },
+    {
+      "name": "Parking",
+      "value": "none"
+    }
+  ],
+  "imageUrls": [
+    "https://i.ebayimg.com/00/s/MTk3WDEzOA==/z/RXAAAOSwc75a2X15/$_18.JPG?set_id=8800004005",
+    "https://i.ebayimg.com/00/s/MTczWDE1MQ==/z/Lp0AAOSwkVxa2X15/$_18.JPG?set_id=8800004005",
+    "https://i.ebayimg.com/00/s/MTcxWDE1NA==/z/ERgAAOSwEA9a2X16/$_18.JPG?set_id=8800004005",
+    "https://i.ebayimg.com/00/s/MTMwWDE3Mw==/z/9yMAAOSw99Ra2X16/$_18.JPG?set_id=8800004005"
+  ]
+}

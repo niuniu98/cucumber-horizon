@@ -1,0 +1,14 @@
+{
+  "title":"Redesign BAPI post an ad cannot show in recent activity",
+  "description":"BAPI post an ad description cannot show in recent activity",
+  "categoryId":"32",
+  "location": {
+    "latitude": "17.8094405",
+    "longitude": "-91.5366001"
+  },
+  "categoryAttributes": [],
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/5MIAAOSwz9FZyzZ~/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/UToAAOSwS1VZyzZ~/$_18.JPG?set_id=8800005007"
+    ]
+}

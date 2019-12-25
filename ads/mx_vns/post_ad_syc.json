@@ -1,0 +1,20 @@
+{
+  "title":"Redesign BAPI post an ad",
+  "description":"BAPI post an ad description for BDD Redesign case",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"456"
+  },
+  "location": {
+    "latitude": "19.343744",
+    "longitude": "-99.15619"
+  },
+  "syncGeoCodeForTesting": true,
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NTMzWDgwMA==/z/NxAAAOSwgHJZyzb9/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/WiUAAOSw3RhZyzbb/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/nnIAAOSwpC1Zyza6/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/puEAAOSwH4FZyzdA/$_18.JPG?set_id=8800005007"
+  ]
+}

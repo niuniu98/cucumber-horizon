@@ -1,0 +1,45 @@
+{
+  "title":"Redesign BAPI post an ad for long description",
+  "description":"Este departamento excelentemente bien ubicado, a 500 m de CU / BUAP,  y cercano a vialidades principales como Av. Las Torres, Av. 24 Sur, Blvd. Valsequillo (Capitán Camacho) y a Periférico, te ubica en el corazón de la Ciudad Universitaria.  Está ubicado dentro de Vista Alegre que cuenta con vigilancia las 24 h, áreas verdes, comercios, etc. El edificio es de tres pisos y el departamento está en la planta baja, lo cual complementa las áreas con tres patios que permiten la entrada de luz y muy buena ventilación. Te ofrece un amplio cajón de estacionamiento (suficiente para pick-up doble cabina), cocina integral con alacena, sala, comedor, patio de servicio, dos recámaras con closet y un baño completo, todo en un área de 86 m2. Este departamento excelentemente bien ubicado, a 500 m de CU / BUAP,  y cercano a vialidades principales como Av. Las Torres, Av. 24 Sur, Blvd. Valsequillo (Capitán Camacho) y a Periférico, te ubica en el corazón de la Ciudad Universitaria.  Está ubicado dentro de Vista Alegre que cuenta con vigilancia las 24 h, áreas verdes, comercios, etc. El edificio es de tres pisos y el departamento está en la planta baja, lo cual complementa las áreas con tres patios que permiten la entrada de luz y muy buena ventilación. Te ofrece un amplio cajón de estacionamiento (suficiente para pick-up doble cabina), cocina integral con alacena, sala, comedor, patio de servicio, dos recámaras con closet y un baño completo, todo en un área de 86 m2. Este departamento excelentemente bien ubicado, a 500 m de CU / BUAP,  y cercano a vialidades principales como Av. Las Torres, Av. 24 Sur, Blvd. Valsequillo (Capitán Camacho) y a Periférico, te ubica en el corazón de la Ciudad Universitaria.  Está ubicado dentro de Vista Alegre que cuenta con vigilancia las 24 h, áreas verdes, comercios, etc. El edificio es de tres pisos y el departamento está en la planta baja, lo cual complementa las áreas con tres patios que permiten la entrada de luz y muy buena ventilación. Te ofrece un amplio cajón de estacionamiento (suficiente para pick-up doble cabina), cocina integral con alacena, sala, comedor, patio de servicio, dos recámaras con closet y un baño completo, todo en un área de 86 m2. Este departamento excelentemente bien ubicado, a 500 m de CU / BUAP,  y cercano a vialidades principales como Av. Las Torres, Av. 24 Sur, Blvd. Valsequillo (Capitán Camacho) y a Periférico, te ubica en el corazón de la Ciudad Universitaria.  Está ubicado dentro de Vista Alegre que cuenta con vigilancia las 24 h, áreas verdes, comercios, etc. El edificio es de tres pisos y el departamento está en la planta baja, lo cual complementa las áreas con tres patios que permiten la entrada de luz y muy buena ventilación. Te ofrece un amplio cajón de estacionamiento (suficiente para pick-up doble cabina), cocina integral con alacena, sala, comedor, patio de servicio, dos recámaras con closet y un baño completo, todo en un área de 86 m2. ",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"984"
+    },
+  "location": {
+    "latitude": "31.8667427",
+    "longitude": "-116.5963713"
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBathrooms",
+      "value":30
+    },
+    {
+      "name":"DwellingType",
+      "value":"house"
+    },
+    {
+      "name":"NumberBedrooms",
+      "value":5
+    },
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":123
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    }
+  ],
+   
+  "imageUrls":[
+   "https://i.ebayimg.com/00/s/MTk3WDEzOA==/z/RXAAAOSwc75a2X15/$_18.JPG?set_id=8800004005",
+    "https://i.ebayimg.com/00/s/MTMwWDE3Mw==/z/9yMAAOSw99Ra2X16/$_18.JPG?set_id=8800004005"
+    ]
+}

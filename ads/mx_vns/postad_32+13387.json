@@ -1,0 +1,36 @@
+{
+  "title":"Popular and Suggest link for VIP C3 L3 title",
+  "description":"Popular and Suggest link for VIP C3 L3 desc",
+  "categoryId":"32",
+  "price":{
+    "currency":"MXN",
+    "amount":"984"
+    },
+  "location": {
+    "latitude": "19.394358",
+    "longitude": "-99.177444"
+  },
+  "categoryAttributes": [
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":123
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    },
+    {
+      "name":"PropertySaleRentType",
+      "value":"forsale"
+    }
+  ],
+   
+  "imageUrls":[
+   "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/KFMAAOSwu1xZyza4/$_18.JPG?set_id=8800005007",
+   "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/nnIAAOSwpC1Zyza6/$_18.JPG?set_id=8800005007"
+    ]
+}

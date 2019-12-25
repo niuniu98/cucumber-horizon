@@ -1,0 +1,8 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,All,TextField,mp_txfUsername,the username input field,xpath,"//input[@id='username']"
+All,All,TextField,mp_txfPhone1Input,the phone1 input field,xpath,"//input[@id='phone1']"
+All,All,TextField,mp_txfPhone2Input,the phone2 input field,xpath,"//input[@id='phone2']"
+All,All,TextField,mp_txfConfirmPwd,the confirm password input field,xpath,"//div[@class='confirm-password']//input"
+All,All,Button,mp_btnSave,button to save profile,xpath,"//button[@id='save-button']"
+All,All,CheckBox,mp_chbMarketingOptedIn,checkbox of markting opted in,xpath,"//label[@for='isMarketingOptedIn']/input"
+All,All,CheckBox,mp_chbOptedOutOfEmailUpsell,checkbox of opted out of email upsell,xpath,"//label[@for='isOptedOutOfEmailUpsell']/input"

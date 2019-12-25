@@ -1,0 +1,17 @@
+{
+  "title":"Bloemfontein for test trending link popularword016",
+  "description":"BAPI post an ad description Bloemfontein for test trending link popularword016",
+  "categoryId":"9312",
+  "price":{
+    "currency":"ZAR",
+    "amount":"778"
+    },
+  "location": {
+    "latitude": "-29.116667",
+    "longitude": "26.216667"
+  },
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/KFMAAOSwu1xZyza4/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/prkAAOSwH4FZyza6/$_18.JPG?set_id=8800005007"
+    ]
+}

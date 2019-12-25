@@ -1,0 +1,52 @@
+{
+    "title": "2018 Lamborghini Murcielago 99999 Kilometers",
+    "description": "2018 Lamborghini Murcielago 99999 Kilometers, ONLY for srp search",
+    "categoryId":9077,
+    "location": {    "latitude": "-34.00659271071406", "longitude": "18.469292249999967"},
+    "price":{
+        "priceType":"FIXED",
+        "currency":"ZAR",
+        "amount":"66666666"
+      
+    },
+    "imageUrls":["https://i.ebayimg.com/00/s/MjIwWDI5Mw==/z/WwAAAOSwQttZyzcJ/$_18.JPG?set_id=8800004005"],
+    "categoryAttributes":
+    [ 
+        { 
+            "name":"ForSaleBy",
+            "value":"ownr"
+        }, 
+        { 
+            "name":"CarMake",
+            "value":"lamborghini"
+        },
+        {
+            "name":"CarModel",
+            "value":"murcielago"
+        },
+        {
+            "name":"CarBodyType",
+            "value":"coup"
+        },
+        {
+            "name":"CarYear",
+            "value":2018
+        },
+        {
+            "name":"CarMileageInKms",
+            "value":99999
+        },
+        {
+            "name":"CarTransmission",
+            "value":2
+        },
+        {
+            "name":"FuelType",
+            "value":1
+        },
+        {
+           "name":"CarColor",
+            "value":"red"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+  "title":"post house with plocation",
+  "description":"BAPI post a house ad with plocation for BDD Redesign case",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"984"
+    },
+  "location": {
+    "latitude": "18.610184",
+    "longitude": "-90.73902"
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBathrooms",
+      "value":30
+    },
+    {
+      "name":"DwellingType",
+      "value":"house"
+    },
+    {
+      "name":"NumberBedrooms",
+      "value":5
+    },
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":123
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    }
+  ],
+   
+  "imageUrls":[
+   "https://i.ebayimg.com/00/s/Mzg2WDY0MA==/z/3w4AAOSwBj5Zyza5/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/nnIAAOSwpC1Zyza6/$_18.JPG?set_id=8800005007"
+    ]
+}

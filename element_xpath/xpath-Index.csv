@@ -1,0 +1,2 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,All,TextField,index_contentTxt,index file content,xpath,"//div[@class='collapsible-content']//div[@class='collapsible-content']//div[@class='collapsible-content']//span[@class='text']"

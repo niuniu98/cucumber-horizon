@@ -1,0 +1,45 @@
+{
+  "title":"Redesign BAPI post an ad in special location",
+  "description":"Este departamento excelentemente bien ubicado",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"984"
+    },
+  "location": {
+    "latitude": "25.547789107590788",
+    "longitude": "-100.23059469999998"
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBathrooms",
+      "value":30
+    },
+    {
+      "name":"DwellingType",
+      "value":"house"
+    },
+    {
+      "name":"NumberBedrooms",
+      "value":5
+    },
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":333
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    }
+  ],
+   
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/MTczWDE1MQ==/z/Lp0AAOSwkVxa2X15/$_18.JPG?set_id=8800004005",
+    "https://i.ebayimg.com/00/s/MTMwWDE3Mw==/z/9yMAAOSw99Ra2X16/$_18.JPG?set_id=8800004005"
+    ]
+}

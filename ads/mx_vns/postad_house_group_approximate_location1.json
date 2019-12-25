@@ -1,0 +1,46 @@
+{
+  "title":"Group approximate locations 11874",
+  "description":"Group approximate locations 11874 Group approximate locations 11874 Group approximate locations 11874 Group approximate locations 11874",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"19840801"
+    },
+  "location": {
+    "latitude": "25.790466",
+    "longitude": "-108.985886"
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBathrooms",
+      "value":20
+    },
+    {
+      "name":"DwellingType",
+      "value":"house"
+    },
+    {
+      "name":"NumberBedrooms",
+      "value":4
+    },
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":888
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    }
+  ],
+   
+  "imageUrls":[
+   "https://i.ebayimg.com/00/s/NTAwWDgwMA==/z/R0QAAOSwqNJbY4~6/$_18.JPG?set_id=8800005007",
+   "https://i.ebayimg.com/00/s/NTMzWDgwMA==/z/k0QAAOSwwAVbY4~6/$_18.JPG?set_id=8800005007",
+   "https://i.ebayimg.com/00/s/NjEyWDgwMA==/z/X2EAAOSwf31bY4~6/$_18.JPG?set_id=8800005007"
+   ]
+}

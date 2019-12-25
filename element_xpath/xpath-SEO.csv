@@ -1,0 +1,15 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+"za,mx_vns",all,Button,closeOnGoogle,close icon on the google page,xpath,"//span[@class='XKSfm-Sx9Kwc-r4nke-TvD9Pc RmniWd-rdwzAe-Sx9Kwc-r4nke-TvD9Pc']//i[@class='material-icons md-dark']"
+"za,mx_vns",all,Button,backOnGoogle,back icon on the google page,xpath,"//i[contains(text(),'arrow_back')]/.."
+"za,mx_vns",all,Button,notRobot,not robot on the google page,xpath,"//*[contains(text(),'I'm not a robot')]"
+"za,mx_vns",all,Button,submitNotRobot,submit not robot on the google page,xpath,"//*[contains(text(),'Submit')]"
+"mx_vns",all,Label,lblProduct,the product number of test result,xpath,"//div[@id='results-cell']/div/div/div[2]/ul/li[3]/span[2]/span[3]"
+mx_vns,landscape,Button,hp_btnMessageOnTopRight,the message button in header on hp,xpath,//div[@class='item-wrapper url-redirect item-message']
+mx_vns,landscape,Button,hp_btnMyAdsOnTopRight,the my ad button in header on hp,xpath,//div[@class='rot-link-toConvert my-ads-link']
+All,All,Link,hp_lnkFacebookLink,link to facebook on footer,xpath,//div[@class='social-icon fb-icon']/..
+All,All,Link,hp_lnkTwitterLink,link to twitter on footer,xpath,//div[@class='social-icon twitter-icon']/..
+All,All,Link,hp_lnkPinterestLink,link to pinterest on footer,xpath,//div[@class='social-icon pinterest-icon']/..
+All,All,Link,hp_lnkYoutubeLink,link to youtube on footer,xpath,//div[@class='social-icon youtube-icon']/..
+All,All,Link,hp_lnkGoogleplusLink,link to googleplus on footer,xpath,//div[@class='social-icon googleplus-icon']/..
+All,All,Link,hp_lnkAppleStoreOnFooterLink,link to apple store on footer,xpath,"//span[contains(@class,'app-downloads icon-logo_app_store')]/.."
+All,All,Link,hp_lnkGoooglePlayOnFooterLink,link to Gooogle Play on footer,xpath,"//span[contains(@class,'app-downloads icon-logo_google_play')]/.."

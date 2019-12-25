@@ -1,0 +1,5 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,All,Label,soi_imgSOIEmail,the label of email on SOI page,xpath,"//span[@class='icon-soi-email-verified']"
+All,All,Label,soi_pnlHeader,the header part in SOI page,xpath,//div[@class='headerV2']
+All,All,Label,soi_pnlFooter,the footer part in SOI page,xpath,"//div[@class='footer-wrapper']"
+All,All,Label,soi_pnlSearchBar,the welcome text on mobile,xpath,//div[@class='searchbar']

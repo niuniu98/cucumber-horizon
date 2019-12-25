@@ -1,0 +1,8 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,All,Area,tisoBlackStarContent,the block of tisoBlackStar gallery content,xpath,"//div[@id='carouselGallery']"
+All,All,Area,TBSContentItem,the block of tisoBlackStar gallery content,xpath,"//div[contains(@class, 'tileV2 regular listView slick-slide')]"
+All,All,Area,TBSContentActiveItem,the block of tisoBlackStar item in gallery content,xpath,"//div[contains(@class, 'tileV2 regular listView slick-slide slick-current slick-active')]"
+All,All,Area,nextButton,the next button in gallery content,xpath,"//div[contains(@class, 'icon-carousel-arrow-next slick-next slick-arrow')]"
+All,All,Area,prevButton,the prev button in gallery content,xpath,"//div[contains(@class, 'icon-carousel-arrow-prev slick-prev slick-arrow')]"
+
+

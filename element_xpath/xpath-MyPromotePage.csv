@@ -1,0 +1,6 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,All,CheckBox,mpp_chbHpgallery31,the hpgallery31 checkbox,xpath,"//label[@class='hpgallery31']/div[@class='mobile-only feature-name ']/.."
+All,All,CheckBox,mpp_chbFirstUrgent,the first ad urgent checkbox,xpath,"//div[@id='commercials']/div[1]//div[@class='feature-options urgent']//label"
+All,All,CheckBox,mpp_chbFirstHighlight,the first ad highlight checkbox,xpath,"//div[@id='commercials']/div[1]//div[@class='feature-options highlight']//label"
+All,All,Button,mpp_btnCheckout,the checkout button,xpath,"//button[@id='checkout']"
+All,All,CheckBox,mpp_chbUrgent,urgent feature on myads promotion ,xpath,"//div[@class='ad-features']//span[@name='urgent' and contains(@class,'checkbox')]"

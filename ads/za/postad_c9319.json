@@ -1,0 +1,20 @@
+{
+  "title": "BAPI post an ad in Swimwear category",
+  "description": "BAPI post an ad in Swimwear category to test categoryyMobileName.",
+  "categoryId":9319,
+  "location": {"latitude":"-33.9283054","longitude":"18.3793897"},
+  "price":{
+    "priceType":"FIXED",
+    "currency":"ZAR",
+    "amount":"45"
+
+  },
+  "imageUrls":["https://i.ebayimg.com/00/s/MjIwWDgwMA==/z/YwQAAOSwhQtazlXk/$_19.JPG"],
+  "categoryAttributes":
+  [
+    {
+      "name":"ForSaleBy",
+      "value":"ownr"
+    }
+  ]
+}

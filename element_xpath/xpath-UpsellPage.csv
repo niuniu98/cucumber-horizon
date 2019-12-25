@@ -1,0 +1,11 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,landscape,Button,upsell_btnPromoteCheckout,the checkout button on upsell page,xpath,"//div[@class='desktop-checkout']//*[contains(@class,'checkout-button')]//span[@id]"
+All,portrait,Button,upsell_btnPromoteCheckout,the checkout button on upsell page,xpath,"//div[@class='mobile-checkout-container']//div[@class='checkout-footer']//a"
+All,All,TextField,upsell_txfHPGallery,the homepage gallery feature on upsell page,xpath,"//div[@class='ad-features']//span[@class='label-of-checkbox' and (text()='Galería Principal' or text()='Homepage gallery')]"
+All,All,TextField,upsell_txfSRPGallery,the srp page gallery feature on upsell page,xpath,"//div[@class='ad-features']//span[@class='label-of-checkbox' and (text()='Galería de categorías' or text()='Category gallery')]"
+All,All,TextField,upsell_txfTopAd,the top ad feature on upsell page,xpath,"//div[@class='ad-features']//span[@class='label-of-checkbox' and (text()='Destacado' or text()='Top ad')]"
+All,All,TextField,upsell_txfBumpUp,the bump up feature on upsell page,xpath,"//div[@class='ad-features']//span[@class='label-of-checkbox' and (text()='Primeros Resultados' or text()='Bump up')]"
+All,All,TextField,upsell_txfHighlights,the highlights feature on upsell page,xpath,"//div[@class='ad-features']//span[@class='label-of-checkbox' and (text()='Resalta tu Aviso' or text()='Highlights')]"
+All,All,TextField,upsell_txfUrgent,the urgent feature on upsell page,xpath,"//div[@class='ad-features']//span[@class='label-of-checkbox' and (text()='Urgente' or text()='Urgent')]"
+All,All,TextField,upsell_txfWebsiteURL,the website url feature on upsell page,xpath,"//div[@class='ad-features']//span[@class='label-of-checkbox' and (text()='Urgente' or text()='Website URL')]"
+All,All,Button,bundle_btnBuildOwn,build own on bundle page, xpath,"//div[@class='bundle swiper-slide bundle-build-own']//button[@class='select-button']"

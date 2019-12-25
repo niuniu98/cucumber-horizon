@@ -1,0 +1,45 @@
+{
+  "title":"popularword016 popularAgua16 trendingAgua01 aaa",
+  "description":"BAPI post a house ad in location Aguascalientes",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"984"
+    },
+  "location": {
+    "latitude": "21.885324",
+    "longitude": "-102.29151"
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBathrooms",
+      "value":30
+    },
+    {
+      "name":"DwellingType",
+      "value":"house"
+    },
+    {
+      "name":"NumberBedrooms",
+      "value":5
+    },
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":123
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    }
+  ],
+   
+  "imageUrls":[
+   "https://i.ebayimg.com/00/s/NTMyWDgwMA==/z/WugAAOSwQttZyza5/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/prkAAOSwH4FZyza6/$_18.JPG?set_id=8800005007"
+    ]
+}

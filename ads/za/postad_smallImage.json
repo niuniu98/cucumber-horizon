@@ -1,0 +1,52 @@
+{
+  "title": "BAPI post car ad with a small image",
+  "description": "BAPI post an ad with a small image.",
+  "categoryId":9077,
+"location": {    "latitude": "-28.923868", "longitude": "31.491318"},
+"price":{
+      "priceType":"FIXED",
+      "currency":"ZAR",
+        "amount":"888"
+      
+  },
+  "imageUrls":["https://i.ebayimg.com/00/s/MjIwWDI5Mw==/z/WwAAAOSwQttZyzcJ/$_18.JPG?set_id=8800004005"],
+  "categoryAttributes":
+  [ 
+        { 
+            "name":"ForSaleBy",
+            "value":"ownr"
+        }, 
+        { 
+            "name":"CarMake",
+            "value":"alpharomeo"
+        },
+        {
+            "name":"CarModel",
+            "value":"146"
+        },
+        {
+            "name":"CarBodyType",
+            "value":"coup"
+        },
+        {
+            "name":"CarYear",
+            "value":2017
+        },
+        {
+            "name":"CarMileageInKms",
+            "value":456
+        },
+        {
+            "name":"CarTransmission",
+            "value":2
+        },
+        {
+            "name":"FuelType",
+            "value":2
+        },
+        {
+           "name":"CarColor",
+            "value":"blue"
+        }
+    ]
+}

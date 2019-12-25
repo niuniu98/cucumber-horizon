@@ -1,0 +1,54 @@
+{
+  "title": "BAPI post car ad for vip",
+  "description": "BAPI post car ad for vip",
+  "categoryId":9077,
+"location": {    "latitude": "-32.93444", "longitude": "27.643484"},
+"price":{
+      "priceType":"FIXED",
+      "currency":"ZAR",
+        "amount":"488"
+      
+  },
+  "imageUrls":["https://i.ebayimg.com/00/s/ODAwWDUzNA==/z/1OcAAOSwb6dZyzcx/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/ODAwWDUzNA==/z/1OcAAOSwb6dZyzcx/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/ODAwWDUzNA==/z/1OcAAOSwb6dZyzcx/$_18.JPG?set_id=8800005007"],
+  "categoryAttributes":
+  [ 
+        { 
+            "name":"ForSaleBy",
+            "value":"ownr"
+        }, 
+        { 
+            "name":"CarMake",
+            "value":"alpharomeo"
+        },
+        {
+            "name":"CarModel",
+            "value":"146"
+        },
+        {
+            "name":"CarBodyType",
+            "value":"coup"
+        },
+        {
+            "name":"CarYear",
+            "value":2017
+        },
+        {
+            "name":"CarMileageInKms",
+            "value":456
+        },
+        {
+            "name":"CarTransmission",
+            "value":2
+        },
+        {
+            "name":"FuelType",
+            "value":2
+        },
+        {
+           "name":"CarColor",
+            "value":"blue"
+        }
+    ]
+}

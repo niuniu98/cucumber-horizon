@@ -1,0 +1,44 @@
+{
+  "title":"Redesign BAPI post an ad",
+  "description":"BAPI post an ad description for BDD Redesign case",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"456"
+    },
+  "location": {
+    "latitude": "19.343744",
+    "longitude": "-99.15619",
+    "radius":0
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBathrooms",
+      "value":30
+    },
+    {
+      "name":"DwellingType",
+      "value":"house"
+    },
+    {
+      "name":"NumberBedrooms",
+      "value":5
+    },
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":123
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    }
+  ],
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/NTMyWDgwMA==/z/WugAAOSwQttZyza5/$_18.JPG?set_id=8800005007"
+  ]
+}

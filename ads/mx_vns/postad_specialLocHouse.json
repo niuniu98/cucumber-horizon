@@ -1,0 +1,45 @@
+{
+  "title":"post house for test insertion fee",
+  "description":"BAPI post a house ad for test insertion fee",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"984"
+    },
+  "location": {
+     "latitude": "19.0412967",
+    "longitude": "-98.2061996"
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBathrooms",
+      "value":30
+    },
+    {
+      "name":"DwellingType",
+      "value":"house"
+    },
+    {
+      "name":"NumberBedrooms",
+      "value":5
+    },
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":123
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    }
+  ],
+   
+  "imageUrls":[
+    "https://i.ebayimg.com/00/s/MjIwWDM1Mg==/z/wlsAAOSwZgNZyzcJ/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/MjIwWDI5Mw==/z/WwAAAOSwQttZyzcJ/$_18.JPG?set_id=8800004005"
+    ]
+}

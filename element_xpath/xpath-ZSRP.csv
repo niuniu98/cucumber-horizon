@@ -1,0 +1,2 @@
+Site,Platform,ElementType,Label,Description,ByType,By
+All,All,Label,zsrp_BottomBanner,Bottom banner on ZSRP,xpath,//div[@id='zsrp-bottom-banner']

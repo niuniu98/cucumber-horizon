@@ -1,0 +1,55 @@
+{
+  "title":"VIP overlay Google Street View is online",
+  "description":"Google Street View is a technology featured in Google Maps and Google Earth that provides panoramic views from positions along many streets in the world. It was launched in 2007 in several cities in the United States, and has since expanded to include cities and rural areas worldwide.",
+  "categoryId":"1097",
+  "price":{
+    "currency":"MXN",
+    "amount":"876552"
+    },
+  "location": {
+    "latitude": "19.432196356078943",
+    "longitude": "-99.19392464999999",
+    "radius":0
+  },
+  "categoryAttributes":
+  [
+    {
+      "name":"NumberBathrooms",
+      "value":30
+    },
+    {
+      "name":"DwellingType",
+      "value":"house"
+    },
+    {
+      "name":"NumberBedrooms",
+      "value":5
+    },
+    {
+      "name":"DwellingForSaleBy",
+      "value":"ownr"
+    },
+    {
+      "name":"AreaInMeters",
+      "value":123
+    },
+    {
+      "name":"Parking",
+      "value":"grage"
+    }
+  ],
+   
+  "imageUrls":[
+  "https://i.ebayimg.com/00/s/NTM0WDgwMA==/z/hP4AAOSwfoJbx67a/$_18.JPG?set_id=8800005007",
+   "https://i.ebayimg.com/00/s/NDc4WDQ3OA==/z/d20AAOSwsuNbx656/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDc4WDQ3OA==/z/pAMAAOSwORxbx657/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDc4WDQ3OA==/z/BH8AAOSwFmRbx657/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDc4WDQ3OA==/z/d20AAOSwsuNbx656/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDc4WDQ3OA==/z/pAMAAOSwORxbx657/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDc4WDQ3OA==/z/BH8AAOSwFmRbx657/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDc4WDQ3OA==/z/d20AAOSwsuNbx656/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDc4WDQ3OA==/z/pAMAAOSwORxbx657/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDc4WDQ3OA==/z/BH8AAOSwFmRbx657/$_18.JPG?set_id=8800005007",
+    "https://i.ebayimg.com/00/s/NDc4WDQ3OA==/z/MEoAAOSwiiVbx657/$_18.JPG?set_id=8800005007"
+    ]
+}

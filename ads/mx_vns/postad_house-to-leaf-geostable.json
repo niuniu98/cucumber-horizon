@@ -1,0 +1,20 @@
+{
+  "title":"post house for test breadcrumb on new vip",
+  "description":"post house for test breadcrumb on new vip",
+  "categoryId":"32",
+  "price":{
+    "currency":"MXN",
+    "amount":"984"
+    },
+  "syncGeoCodeForTesting": true,
+  "location": {
+    "latitude": "19.322581",
+    "longitude": "-99.256783"
+  },
+  "categoryAttributes": [],
+   
+  "imageUrls":[
+   "https://i.ebayimg.com/00/s/MTY4WDE4Mw==/z/00cAAOSwOAda2X15/$_18.JPG?set_id=8800004005",
+   "https://i.ebayimg.com/00/s/MTc1WDE0NQ==/z/UtcAAOSwDCxa2X15/$_18.JPG?set_id=8800004005"
+    ]
+}
