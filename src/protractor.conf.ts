@@ -59,7 +59,7 @@ const defaultConfig = {
     // set to 'custom' instead of cucumber
     framework: 'custom',
     // The path relative to the current argv file
-    frameworkPath: '../node_modules/protractor-cucumber-framework',
+    frameworkPath: cwd + '/node_modules/protractor-cucumber-framework',
     //frameworkPath: 'protractor-cucumber-framework',
     // Options to be passed to cucumber
     cucumberOpts: {

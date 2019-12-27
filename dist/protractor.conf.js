@@ -63,7 +63,7 @@ const defaultConfig = {
         bapiFailuresRetryCount: 2
     },
     framework: 'custom',
-    frameworkPath: '../node_modules/protractor-cucumber-framework',
+    frameworkPath: cwd + '/node_modules/protractor-cucumber-framework',
     cucumberOpts: {
         format: ['json:report/result.json'],
         require: ['./step_definitions/**/*.ts', './step_definitions/**/*.js'],
