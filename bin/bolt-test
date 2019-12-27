@@ -6,4 +6,4 @@ process.env.NODE_ENV = process.env.NODE_ENV || 'test';
 // read config file
 // set config file to protractor config file
 // run protractor
-require('../../node_modules/protractor/built/cli.js');
+require('../../protractor/built/cli.js');
